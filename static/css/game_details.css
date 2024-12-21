@@ -1,0 +1,144 @@
+\/* General styles for the page */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+}
+
+/* Game Detail Page */
+.game-detail-container {
+    padding: 2em;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex; /* Enable flexbox layout */
+    flex-wrap: wrap; /* Allow items to wrap if necessary */
+    gap: 2em; /* Adds space between image and details */
+}
+
+/* Main Game Title */
+.game-detail-container h1 {
+    color: #0C899E;
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 1.5em;
+    width: 100%; /* Ensure title spans full width */
+}
+
+/* Game Image */
+.game-image {
+    flex: 1 1 300px; /* Allow the image to grow/shrink and have a minimum width of 300px */
+    max-width: 500px;
+    text-align: center;
+}
+
+.game-image img {
+    width: 100%; /* Make the image responsive */
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+/* Game Details */
+.game-details {
+    flex: 2 1 600px; /* Take up more space for the details */
+    padding: 1em;
+    background-color: #0C899E;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: white;
+}
+
+/* Categories */
+.game-detail-container .game-categories {
+    margin-bottom: 1.5em;
+    font-size: 1.2em;
+}
+
+.game-detail-container .game-categories strong {
+    font-weight: bold;
+}
+
+.game-detail-container .game-categories span {
+    margin-right: 10px;
+    color: #0C899E;
+}
+
+/* Additional Game Details */
+.game-detail-container .game-details p {
+    font-size: 1.1em;
+    line-height: 1.6em;
+}
+
+/* Purchase URL */
+.game-detail-container .purchase-url {
+    margin-top: 1em;
+}
+
+.game-detail-container a.purchase-url {
+    color: #ffdf60;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.game-detail-container .purchase-url a:hover {
+    text-decoration: underline;
+}
+
+/* Game Gallery */
+.game-gallery {
+    margin-top: 2em;
+}
+
+.game-gallery h3 {
+    color: #0C899E;
+    font-size: 2em;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+.game-gallery .images {
+    display: flex;
+    gap: 1em;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.game-gallery img {
+    width: 300px;
+    height: 300px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .game-detail-container {
+        flex-direction: column; /* Stack the image and details on smaller screens */
+        align-items: center;
+    }
+
+    .game-gallery .images {
+        justify-content: flex-start;
+    }
+}
+
+@media (max-width: 480px) {
+    .game-detail-container h1 {
+        font-size: 2em;
+    }
+
+    .game-image {
+        width: 100%;
+    }
+}

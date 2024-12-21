@@ -4,7 +4,6 @@ from .views import homepage, GameDetailView, category_view
 
 urlpatterns = [
     path('', homepage, name='homepage'),
-    path('games/<int:pk>/', GameDetailView.as_view(), name='game_detail'),
-    path('category/<str:category>/', category_view, name='category'),
-
+    path('game/<int:pk>/', GameDetailView.as_view(), name='game_details'),
+    path('category/<str:category_name>/', category_view, name='category'),
 ]

@@ -1,13 +1,12 @@
 {% block navbar %}
-<nav>
-    <ul class="navbar">
-        <li><a href="/" class="active">Homepage</a></li>
-        <li><a href="/category/Strategy" {% if category== 'Strategy' %}class="active"{% endif %}>Strategy</a></li>
-        <li><a href="/category/Party" {% if category== 'Party' %}class="active"{% endif %}>Party</a></li>
-        <li><a href="/category/Family" {% if category== 'Family' %}class="active"{% endif %}>Family</a></li>
-        <li><a href="/category/Card" {% if category== 'Card' %}class="active"{% endif %}>Card</a></li>
-        <li><a href="/category/Cooperative" {% if category== 'Cooperative' %}class="active"{% endif %}>Cooperative</a></li>
-    </ul>
-</nav>
+    <nav>
+        <ul class="navbar">
+            <li><a href="/" {% if category.name == None %}class="active"{% endif %}>Homepage</a></li>
+            <li><a href="/category/Strategy" {% if category.name == 'Strategy' %}class="active"{% endif %}>Strategy</a></li>
+            <li><a href="/category/Party" {% if category.name == 'Party' %}class="active"{% endif %}>Party</a></li>
+            <li><a href="/category/Family" {% if category.name == 'Family' %}class="active"{% endif %}>Family</a></li>
+            <li><a href="/category/Card" {% if category.name == 'Card' %}class="active"{% endif %}>Card</a></li>
+            <li><a href="/category/Cooperative" {% if category.name == 'Cooperative' %}class="active"{% endif %}>Cooperative</a></li>
+        </ul>
+    </nav>
 {% endblock %}
-

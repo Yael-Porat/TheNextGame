@@ -14,7 +14,7 @@ class Game(models.Model):
     name = models.CharField(max_length=200)
     short_description = models.CharField(max_length=200, default="")
     description = models.TextField()
-    category = models.ForeignKey(Category, related_name="games", on_delete=models.CASCADE)
+    categories = models.ManyToManyField(Category, related_name="games")
 
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
@@ -24,15 +24,11 @@ class Game(models.Model):
     price_range = models.CharField(max_length=50, blank=True, null=True)
     purchase_url = models.URLField(max_length=500, blank=True, null=True)
     number_of_players = models.CharField(max_length=50, blank=True, null=True)
-    release_date = models.DateField(blank=True, null=True)
-    awards = models.TextField(blank=True, null=True)
-    manufacturer = models.CharField(max_length=200, blank=True, null=True)
 
     def __str__(self):
         return self.name
 
     def main_image(self):
-        """Returns the main image for the game"""
         return self.images.filter(is_main_image=True).first()
 
     def all_images(self):

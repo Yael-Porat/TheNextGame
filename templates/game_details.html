@@ -1,67 +1,69 @@
 {% extends 'general/base.html' %}
 {% load static %}
+
+{% block navbar %}
+{{ block.super }}
+{% endblock %}
+
 {% block content %}
-{% include 'search_stay.html' %}
-<section class="stay-detail">
-    {% if stay %}
-    <div class="stay-card">
-        <!-- Main Image -->
-        {% if stay.image %}
-        <img src="{{ stay.image.url }}" alt="{{ stay.name }}" class="stay-image">
+<link rel="stylesheet" type="text/css" href="{% static 'css/game_details.css' %}">
+
+<div class="game-detail-container">
+    <h1>{{ game.name }}</h1>
+
+    <div class="game-image">
+        {% if game.main_image %}
+        <img src="{{ game.main_image.image.url }}" alt="{{ game.main_image.image.name }}">
         {% else %}
-        <img src="{% static 'images/default_stay.jpg' %}" alt="No Image Available" class="stay-image">
+        <img src="{% static 'images/default_game_image.png' %}" alt="Default game image">
+        {% endif %}
+    </div>
+
+    <div class="game-details">
+        <p>{{ game.description }}</p>
+
+        {% if game.categories.all %}
+        <p><strong>Categories:</strong>
+            {% for category in game.categories.all %}
+            {{ category.name }}{% if not forloop.last %}, {% endif %}
+            {% endfor %}
+        </p>
         {% endif %}
 
-        <!-- Stay Details -->
-        <div class="stay-details">
-            <h3 class="stay-name">{{ stay.name }}</h3>
-            <p class="stay-type">{{ stay.get_property_type_display }}</p>
-            {% if stay.rating %}
-            <p class="stay-rating">Rating: {{ stay.rating }}</p>
-            {% endif %}
-            <p class="stay-location">
-                Location:
-                {% if stay.location %}
-                {{ stay.location.name }}
-                {% else %}
-                Not Specified
-                {% endif %}
-            </p>
-            <p class="stay-price">${{ stay.price_per_night }} per night</p>
-        </div>
+        {% if game.recommended_age %}
+        <p><strong>Recommended Age:</strong> {{ game.recommended_age }}</p>
+        {% endif %}
+        {% if game.number_of_players %}
+        <p><strong>Number of Players:</strong> {{ game.number_of_players }}</p>
+        {% endif %}
 
-        <!-- Amenities -->
-        <ul class="stay-amenities">
-            {% if stay.has_pool %}
-            <li>🏊‍ Pool</li>
-            {% endif %}
-            {% if stay.near_beach %}
-            <li>🏖️ Near Beach</li>
-            {% endif %}
-            {% if stay.near_lake %}
-            <li>🏞️ Near Lake</li>
-            {% endif %}
+        {% if game.price_range %}
+        <p><strong>Price Range:</strong> {{ game.price_range }}</p>
+        {% endif %}
 
-        </ul>
-        <ul>
-            {% for amenity in stay.amenities_list %}
-            <li>{{ amenity }}</li>
+      <!--  {% if game.release_date %}
+        <p><strong>Release Date:</strong> {{ game.release_date }}</p>
+        {% endif %}
+
+        {% if game.manufacturer %}
+        <p><strong>Manufacturer:</strong> {{ game.manufacturer }}</p>
+        {% endif %}-->
+
+        {% if game.purchase_url %}
+        <p><strong>Purchase URL:</strong> <a href="{{ game.purchase_url }}" class="purchase-url" target="_blank">Click
+            here</a></p>
+        {% endif %}
+    </div>
+
+    <div class="game-gallery">
+        <div class="images">
+            {% for image in game.all_images %}
+            <img src="{{ image.image.url }}" alt="Game Image">
+            {% empty %}
+            <p>No additional images available.</p>
             {% endfor %}
-        </ul>
-        <!-- Book Now Button -->
-        <div class="stay-actions">
-            {% if stay.available %}
-            <a href="/stays/{{ stay.id }}/book" class="btn book-now">Book Now</a>
-            {% else %}
-            <span class="not-available">Not Available</span>
-            {% endif %}
         </div>
     </div>
 
-    {% else %}
-    <p>No info. Please check back later!</p>
-    {% endif %}
-</section>
-
+</div>
 {% endblock %}
-

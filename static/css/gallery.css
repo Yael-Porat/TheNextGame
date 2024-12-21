@@ -5,7 +5,6 @@
     box-sizing: border-box;
 }
 
-
 h3 {
     font-size: 1.5em;
     margin-bottom: 1em;
@@ -18,79 +17,90 @@ p {
 }
 
 /* Gallery container */
-.gallery {
-    padding: 2em;
+/* If category is defined, apply these styles */
+.category-header {
+    color: #0C899E;
+    font-size: 2.5em;
+    text-align: center;
+    margin-top: 0.7em;
 }
 
-.gallery-grid {
+.category-description {
+    font-size: 1.5em;
+    line-height: 1.6em;
+    color: #ffdf60;
+    text-align: center;
+    margin-top: 0.5em;
+}
+
+/* If no category is defined (All Games) */
+.all-games-header {
+    color: #0C899E;
+    font-size: 2.5em;
+    text-align: center;
+    margin-top: 0.7em;
+}
+
+
+.games-list {
+    padding: 2em;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 1.5em;
     justify-items: center;
 }
 
-/* Game card styles */
-.game-card-link {
-    text-decoration: none;
-    color: inherit;
-}
-
-.game-card {
-    background-color: #fff;
+/* Game item styles */
+.game-item {
+    background-color: #0C899E;
     padding: 1em;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 100%;
     max-width: 350px;
     transition: transform 0.3s ease-in-out;
+    text-align: center;
+    color: white;
 }
 
-.game-card:hover {
+.game-item:hover {
     transform: scale(1.05);
 }
 
-/* Main Image */
-.game-main-image {
+.game-image {
     width: 100%;
-    height: auto;
+    height: 300px;
     border-radius: 8px;
     object-fit: cover;
 }
 
 /* Game Details */
-.game-card h3 {
+.game-item h3 {
     font-size: 1.6em;
     margin: 0.5em 0;
+    color: #ffffff; /* Ensures h3 text is white */
 }
 
-.game-card p {
-    color: #555;
+.game-item p {
+    color: #e0f0f5; /* Lightened text color for better contrast on the dark background */
+    font-size: 1em;
+    line-height: 1.4em;
 }
 
-/* Gallery of Additional Images */
-.game-gallery {
-    display: flex;
-    gap: 1em;
-    margin-top: 1em;
-    justify-content: space-between;
-}
-
-.game-gallery img {
-    width: 60px;
-    height: 60px;
-    object-fit: cover;
-    border-radius: 8px;
+/* Links */
+.games-list a {
+    text-decoration: none;
 }
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    .gallery-grid {
+    .games-list {
         grid-template-columns: 1fr 1fr;
     }
 }
 
 @media (max-width: 480px) {
-    .gallery-grid {
+    .games-list {
         grid-template-columns: 1fr;
     }
 }

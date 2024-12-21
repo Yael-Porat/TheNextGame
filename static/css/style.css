@@ -129,13 +129,13 @@ nav {
 
 /* Hover Effects */
 .navbar a:hover {
-    background-color: #FF714B; /* Sunset Orange */
+    background-color: #ffdf60;
     transform: scale(1.05); /* Slightly enlarges the item on hover */
 }
 
 /* Active Link */
 .navbar a.active {
-    background-color: #2BC5B4; /* Tropical Teal */
+    background-color: #2BC5B4;
     color: white;
 }
 
@@ -164,38 +164,6 @@ nav {
     }
 }
 
-/* Search Area */
-.search-area {
-    padding: 20px;
-    background-color: #F4D3A4; /* Sand Beige */
-    text-align: left; /* Align search inputs and text to the left */
-}
-
-.search-area form {
-    display: flex;
-    gap: 10px;
-    justify-content: flex-start; /* Align inputs to the left */
-    flex-wrap: wrap;
-}
-
-.search-area input,
-.search-area select,
-.search-area button {
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-}
-
-.search-area button {
-    background-color: #FF714B; /* Sunset Orange */
-    color: white;
-    cursor: pointer;
-    border: none;
-}
-
-.search-area button:hover {
-    background-color: #FF6B6B; /* Coral */
-}
 
 /* Gallery */
 .gallery {
