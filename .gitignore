@@ -1,0 +1,5 @@
+cms/
+doc/
+games/__pycache__/
+games/migrations/__pycache__/
+*.pyc

@@ -1,0 +1,70 @@
+{% extends 'general/base.html' %}
+
+{% load static %}
+
+{% block content %}
+<h2 class="form-heading">Sign Up</h2>
+<form method="post" class="signup-form">
+    {% csrf_token %}
+
+    <!-- Username field -->
+    <p>
+        <label for="id_username">Username:</label>
+        <input type="text" name="username" maxlength="150" autofocus required aria-describedby="id_username_helptext" id="id_username" value="{{ form.username.value|default:'' }}">
+        {% if form.username.errors %}
+            <ul class="error-list">
+                {% for error in form.username.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+        <span class="helptext" id="id_username_helptext">Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</span>
+    </p>
+
+    <!-- Email field -->
+    <p>
+        <label for="id_email">Email:</label>
+        <input type="email" name="email" maxlength="320" required id="id_email" value="{{ form.email.value|default:'' }}">
+        {% if form.email.errors %}
+            <ul class="error-list">
+                {% for error in form.email.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+        <span class="helptext" id="id_email_helptext">Enter a valid email address. We'll never share your email with anyone else.</span>
+    </p>
+
+    <!-- Password field -->
+    <p>
+        <label for="id_password1">Password:</label>
+        <input type="password" name="password1" autocomplete="new-password" aria-describedby="id_password1_helptext" id="id_password1" value="{{ form.password1.value|default:'' }}">
+        {% if form.password1.errors %}
+            <ul class="error-list">
+                {% for error in form.password1.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+        <span class="helptext" id="id_password1_helptext">
+            Your password must contain at least 8 characters and cannot be too similar to your other personal information.
+        </span>
+    </p>
+
+    <!-- Password confirmation field -->
+    <p>
+        <label for="id_password2">Password confirmation:</label>
+        <input type="password" name="password2" autocomplete="new-password" aria-describedby="id_password2_helptext" id="id_password2" value="{{ form.password2.value|default:'' }}">
+        {% if form.password2.errors %}
+            <ul class="error-list">
+                {% for error in form.password2.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+        <span class="helptext" id="id_password2_helptext">Enter the same password as before, for verification.</span>
+    </p>
+
+    <button type="submit" class="submit-btn">Sign Up</button>
+</form>
+{% endblock %}

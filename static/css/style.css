@@ -1,0 +1,207 @@
+/* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #54B7BD;
+    color: #333333; /* Deep Gray */
+    direction: ltr; /* Ensure left-to-right text alignment */
+}
+
+/* Top Header */
+.top-header {
+    /*background-color: #08A0A1;*/
+    background: linear-gradient(to bottom, #08A0A1, #0D879E);
+
+    display: flex;
+    justify-content: space-between; /* Spread logo and user options */
+    align-items: center;
+    padding: 10px 20px;
+    color: white;
+    height: 100px;
+    direction: ltr; /* Force left-to-right alignment */
+    text-align: left; /* Ensure text aligns left */
+}
+/* User options container */
+.user-options {
+    display: flex;
+    align-items: center;
+    color: white;  /* White text for contrast on the dark gradient */
+}
+
+/* Styling for the inline login form */
+.inline-login-form {
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+    background-color: rgba(255, 255, 255, 0.3); /* Slight transparency for form background */
+    padding: 8px;
+    border-radius: 8px; /* Rounded corners */
+}
+
+/* Input fields */
+.inline-login-form input {
+    padding: 8px;
+    margin-right: 10px;
+    border: 1px solid #ffffff; /* White border for the input fields */
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.8); /* Slight background color */
+    color: #333;  /* Dark text inside the input fields for readability */
+}
+
+/* Button styling */
+.inline-login-form button {
+    padding: 8px 15px;
+    background-color: #ffffff; /* White background for button */
+    color: #08A0A1; /* Text color matching the header gradient */
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.inline-login-form button:hover {
+    background-color: #08A0A1; /* Button hover effect */
+    color: white; /* Change text color on hover */
+}
+
+/* Links (Sign Up) */
+.user-options a {
+    text-decoration: none;
+    color: #ffffff;  /* White text for links */
+    margin-left: 10px;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+
+.user-options a:hover {
+    background-color: #ffffff;
+    color: #08A0A1; /* Change link color to match the header on hover */
+}
+
+.welcome {
+    color: white;
+    text-align: left; /* Explicitly align text left */
+}
+
+.logo {
+    direction: ltr; /* Ensure logo and its text remain LTR */
+}
+
+.logo img {
+    max-height: 100px; /* Scale the logo to fit */
+    width: auto; /* Maintain aspect ratio */
+}
+
+
+/* Navbar Container */
+nav {
+    flex-grow: 1; /* Allow the nav to take available space and center it */
+    display: flex;
+    justify-content: center; /* Center the navbar items */
+    padding: 15px 0;
+    direction: ltr; /* Explicitly enforce LTR in the navbar */
+}
+
+/* Navbar List */
+.navbar {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start; /* Align navbar items to the left */
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar Items */
+.navbar li {
+    margin-right: 30px;
+}
+
+/* Navbar Links */
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 25px; /* Rounded corners */
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+/* Hover Effects */
+.navbar a:hover {
+    background-color: #FF714B; /* Sunset Orange */
+    transform: scale(1.05); /* Slightly enlarges the item on hover */
+}
+
+/* Active Link */
+.navbar a.active {
+    background-color: #2BC5B4; /* Tropical Teal */
+    color: white;
+}
+
+/* Remove Right Margin from Last Item */
+.navbar li:last-child {
+    margin-right: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    nav {
+        padding: 10px;
+    }
+
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start; /* Align navbar items to the left for small screens */
+    }
+
+    .navbar li {
+        margin-bottom: 15px;
+    }
+
+    .navbar li:last-child {
+        margin-bottom: 0;
+    }
+}
+
+/* Search Area */
+.search-area {
+    padding: 20px;
+    background-color: #F4D3A4; /* Sand Beige */
+    text-align: left; /* Align search inputs and text to the left */
+}
+
+.search-area form {
+    display: flex;
+    gap: 10px;
+    justify-content: flex-start; /* Align inputs to the left */
+    flex-wrap: wrap;
+}
+
+.search-area input,
+.search-area select,
+.search-area button {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.search-area button {
+    background-color: #FF714B; /* Sunset Orange */
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+
+.search-area button:hover {
+    background-color: #FF6B6B; /* Coral */
+}
+
+/* Gallery */
+.gallery {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: flex-start; /* Align gallery items to the left */
+}

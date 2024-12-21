@@ -1,0 +1,48 @@
+{% block search_stay %}
+<section class="search-area">
+    <form method="POST" action="">
+        {% csrf_token %}
+        <div>
+            <label for="query">Search:</label>
+            {{ form.query }}
+        </div>
+        <div>
+            <label for="min_price">Min Price:</label>
+            {{ form.min_price }}
+        </div>
+        <div>
+            <label for="max_price">Max Price:</label>
+            {{ form.max_price }}
+        </div>
+        <div>
+            <label for="min_rating">Min Rating:</label>
+            {{ form.min_rating }}
+        </div>
+        <div>
+            <label for="max_rating">Max Rating:</label>
+            {{ form.max_rating }}
+        </div>
+        <div>
+            <label for="category">Category:</label>
+            {{ form.category }}
+        </div>
+        <div>
+            <label for="min_players">Min Players:</label>
+            {{ form.min_players }}
+        </div>
+        <div>
+            <label for="max_players">Max Players:</label>
+            {{ form.max_players }}
+        </div>
+        <div>
+            <label for="min_duration">Min Duration (minutes):</label>
+            {{ form.min_duration }}
+        </div>
+        <div>
+            <label for="max_duration">Max Duration (minutes):</label>
+            {{ form.max_duration }}
+        </div>
+        <button type="submit">Search</button>
+    </form>
+</section>
+{% endblock %}

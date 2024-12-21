@@ -1,0 +1,67 @@
+{% extends 'general/base.html' %}
+{% load static %}
+{% block content %}
+{% include 'search_stay.html' %}
+<section class="stay-detail">
+    {% if stay %}
+    <div class="stay-card">
+        <!-- Main Image -->
+        {% if stay.image %}
+        <img src="{{ stay.image.url }}" alt="{{ stay.name }}" class="stay-image">
+        {% else %}
+        <img src="{% static 'images/default_stay.jpg' %}" alt="No Image Available" class="stay-image">
+        {% endif %}
+
+        <!-- Stay Details -->
+        <div class="stay-details">
+            <h3 class="stay-name">{{ stay.name }}</h3>
+            <p class="stay-type">{{ stay.get_property_type_display }}</p>
+            {% if stay.rating %}
+            <p class="stay-rating">Rating: {{ stay.rating }}</p>
+            {% endif %}
+            <p class="stay-location">
+                Location:
+                {% if stay.location %}
+                {{ stay.location.name }}
+                {% else %}
+                Not Specified
+                {% endif %}
+            </p>
+            <p class="stay-price">${{ stay.price_per_night }} per night</p>
+        </div>
+
+        <!-- Amenities -->
+        <ul class="stay-amenities">
+            {% if stay.has_pool %}
+            <li>🏊‍ Pool</li>
+            {% endif %}
+            {% if stay.near_beach %}
+            <li>🏖️ Near Beach</li>
+            {% endif %}
+            {% if stay.near_lake %}
+            <li>🏞️ Near Lake</li>
+            {% endif %}
+
+        </ul>
+        <ul>
+            {% for amenity in stay.amenities_list %}
+            <li>{{ amenity }}</li>
+            {% endfor %}
+        </ul>
+        <!-- Book Now Button -->
+        <div class="stay-actions">
+            {% if stay.available %}
+            <a href="/stays/{{ stay.id }}/book" class="btn book-now">Book Now</a>
+            {% else %}
+            <span class="not-available">Not Available</span>
+            {% endif %}
+        </div>
+    </div>
+
+    {% else %}
+    <p>No info. Please check back later!</p>
+    {% endif %}
+</section>
+
+{% endblock %}
+

@@ -1,0 +1,13 @@
+{% block navbar %}
+<nav>
+    <ul class="navbar">
+        <li><a href="/" class="active">Homepage</a></li>
+        <li><a href="/category/Board" {% if category== 'Board' %}class="active"{% endif %}>Board</a></li>
+        <li><a href="/category/Card" {% if category== 'Card' %}class="active"{% endif %}>Card</a></li>
+        <li><a href="/category/Social" {% if category== 'Social' %}class="active"{% endif %}>Social</a></li>
+        <li><a href="/category/Learning" {% if category== 'Learning' %}class="active"{% endif %}>Learning</a></li>
+        <li><a href="/category/Travel" {% if category== 'Travel' %}class="active"{% endif %}>Travel</a></li>
+    </ul>
+</nav>
+{% endblock %}
+
