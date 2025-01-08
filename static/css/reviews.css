@@ -1,0 +1,137 @@
+/* Reviews Section Container */
+.reviews-section {
+    display: flex;
+    gap: 2em; /* Space between form and reviews list */
+    margin-top: 0.5em; /* Reduced top margin */
+    padding: 1em 1em; /* More compact padding */
+    width: 100%;
+}
+
+/* Add Your Review Form */
+.reviews-section .review-form {
+    padding: 1em; /* Consistent padding for form */
+    background-color: #0C899E; /* Light blue background */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    width: 350px;
+    height: 580px;
+}
+
+/* Form Title */
+.reviews-section .review-form h2 {
+    font-size: 1.8em;
+    color: white;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
+/* Form Fields */
+.reviews-section .review-form form {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.reviews-section .review-form form input,
+.reviews-section .review-form form textarea {
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    color: #333;
+    background-color: #fafafa;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.reviews-section .review-form form button {
+    padding: 10px;
+    background-color: #ffffff; /* White button */
+    color: #0C899E; /* Blue text */
+    font-size: 1.1em;
+    border: 1px solid #0C899E;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.reviews-section .review-form form button:hover {
+    background-color: #087b86; /* Slightly darker blue on hover */
+    color: white;
+}
+
+/* Reviews List */
+.reviews-section .reviews-list {
+    padding: 1em; /* Consistent padding for list */
+    background-color: #0C899E; /* White background for the reviews */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Same shadow as form */
+    width: 60%;
+}
+
+/* Reviews List Title */
+.reviews-section .reviews-list h2 {
+    font-size: 1.8em;
+    color: white; /* Blue color for the heading */
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
+/* Each Review */
+.reviews-section .reviews-list .review {
+    padding: 1em;
+    background-color: #ffffff; /* White background for each review */
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Subtle shadow for review items */
+    margin-bottom: 0.5em;
+    border: 1px solid #ddd; /* Light border to make reviews stand out */
+}
+
+.reviews-section .reviews-list .review h3 {
+    font-size: 1.4em;
+    color: #0C899E; /* Blue color for review titles */
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+}
+
+.reviews-section .reviews-list .review p {
+    font-size: 1em;
+    color: #555; /* Dark gray for content text */
+    margin-bottom: 0.5em;
+}
+
+.reviews-section .reviews-list .review strong {
+    font-weight: bold;
+    color: #333; /* Dark gray for bold text */
+}
+
+.reviews-section .reviews-list .review-meta {
+    font-size: 0.9em;
+    color: #777; /* Light gray for metadata */
+    margin-top: 0.5em;
+}
+
+/* No reviews message */
+.reviews-section .no-reviews {
+    font-size: 1.2em;
+    color: white;
+    text-align: center;
+    margin-top: 0.5em;
+}
+
+/* Login link */
+.reviews-section .login-link {
+    font-size: 1.1rem;
+    color: #007BFF;
+    text-align: center;
+}
+
+.reviews-section .login-link:hover {
+    text-decoration: underline;
+}
+
+

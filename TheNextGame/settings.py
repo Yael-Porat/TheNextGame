@@ -40,7 +40,10 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'games',
     'users',
-    'TheNextGame'
+    'TheNextGame',
+    'rest_framework',
+    'drf_yasg',
+    'reviews',
 ]
 
 MIDDLEWARE = [

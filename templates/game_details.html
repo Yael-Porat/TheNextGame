@@ -33,6 +33,7 @@
         {% if game.recommended_age %}
         <p><strong>Recommended Age:</strong> {{ game.recommended_age }}</p>
         {% endif %}
+
         {% if game.number_of_players %}
         <p><strong>Number of Players:</strong> {{ game.number_of_players }}</p>
         {% endif %}
@@ -41,13 +42,34 @@
         <p><strong>Price Range:</strong> {{ game.price_range }}</p>
         {% endif %}
 
-      <!--  {% if game.release_date %}
-        <p><strong>Release Date:</strong> {{ game.release_date }}</p>
+        <!-- New fields based on JSON -->
+        {% if game.year_published %}
+        <p><strong>Year Published:</strong> {{ game.year_published }}</p>
         {% endif %}
 
-        {% if game.manufacturer %}
-        <p><strong>Manufacturer:</strong> {{ game.manufacturer }}</p>
-        {% endif %}-->
+        {% if game.rating %}
+        <p><strong>Rating:</strong> {{ game.rating }} / 10</p>
+        {% endif %}
+
+        {% if game.rank %}
+        <p><strong>Rank:</strong> {{ game.rank }}</p>
+        {% endif %}
+
+        {% if game.max_players %}
+        <p><strong>Max Players:</strong> {{ game.max_players }}</p>
+        {% endif %}
+
+        {% if game.min_players %}
+        <p><strong>Min Players:</strong> {{ game.min_players }}</p>
+        {% endif %}
+
+        {% if game.min_play_time %}
+        <p><strong>Min Playtime:</strong> {{ game.min_play_time }} minutes</p>
+        {% endif %}
+
+        {% if game.max_play_time %}
+        <p><strong>Max Playtime:</strong> {{ game.max_play_time }} minutes</p>
+        {% endif %}
 
         {% if game.purchase_url %}
         <p><strong>Purchase URL:</strong> <a href="{{ game.purchase_url }}" class="purchase-url" target="_blank">Click
@@ -65,5 +87,7 @@
         </div>
     </div>
 
+    {% include 'general/reviews_section.html' %}
 </div>
+
 {% endblock %}

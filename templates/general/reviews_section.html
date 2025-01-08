@@ -1,0 +1,33 @@
+{% load static %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'css/reviews.css' %}">
+<div class="reviews-section">
+    <!-- Add Your Review Form -->
+    <div class="review-form">
+        <h2>Add Your Review</h2>
+        {% if request.user.is_authenticated %}
+        <form method="post">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit">Submit Review</button>
+        </form>
+        {% else %}
+        <p><a href="{% url 'login' %}" class="login-link">Log in</a> to add a review.</p>
+        {% endif %}
+    </div>
+
+    <!-- Reviews List -->
+    <div class="reviews-list">
+        <h2>Reviews</h2>
+        {% for review in reviews %}
+        <div class="review">
+            <h3>{{ review.title }}</h3>
+            <p>{{ review.content }}</p>
+            <strong>Rating: {{ review.rating }}</strong>
+            <p class="review-meta">By {{ review.user.username }} on {{ review.created_at }}</p>
+        </div>
+        {% empty %}
+        <p class="no-reviews">No reviews yet. Be the first to add one!</p>
+        {% endfor %}
+    </div>
+</div>
