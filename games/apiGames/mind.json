@@ -1,0 +1,2424 @@
+{
+  "games": [
+    {
+      "id": "161276",
+      "image": "https://cf.geekdo-images.com/2_pwKYA8R9ZxwfFT5HdBvQ__thumb/img/MkQiY9x03IPfNVeOwpWqvmqZedg=/fit-in/200x150/filters:strip_icc()/pic3556404.jpg",
+      "name": "<em>MIND</em>",
+      "rawName": "MIND",
+      "categories": [
+        "Civilization",
+        "Dice",
+        "Science Fiction",
+        "Territory Building"
+      ],
+      "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Open Drafting"
+      ],
+      "yearPublished": 2017,
+      "weight": 2,
+      "rating": 6.70833,
+      "rank": 0,
+      "publisher": "(Self-Published)",
+      "maxPlayers": 2,
+      "minPlayers": 1,
+      "minPlayTime": 30,
+      "maxPlayTime": 90,
+      "type": "boardgame"
+    },
+    {
+      "id": "99970",
+      "image": "https://cf.geekdo-images.com/sbMoj77pDIjB95DgHOxG_Q__thumb/img/giX7szR48ftq9ka8rkx6NagtoP0=/fit-in/200x150/filters:strip_icc()/pic845495.jpg",
+      "name": "<em>Mind</em>meld",
+      "rawName": "Mindmeld",
+      "categories": [
+        "Fantasy"
+      ],
+      "mechanics": [
+        "Area Movement",
+        "Dice Rolling"
+      ],
+      "yearPublished": 1985,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "Tactical Studies Rules (TSR)",
+      "maxPlayers": 2,
+      "minPlayers": 1,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "9558",
+      "image": "https://cf.geekdo-images.com/2NX1QN_0cXFN2VxIKJ8oNg__thumb/img/dW9cJVrgniEKF0aBfcXxj8dUwDo=/fit-in/200x150/filters:strip_icc()/pic109501.jpg",
+      "name": "<em>Mind</em>*Link",
+      "rawName": "Mind*Link",
+      "categories": [
+        "Negotiation",
+        "Party Game",
+        "Word Game"
+      ],
+      "mechanics": [
+        "Paper-and-Pencil",
+        "Pattern Recognition",
+        "Storytelling"
+      ],
+      "yearPublished": 1989,
+      "weight": 0,
+      "rating": 3.5,
+      "rank": 0,
+      "publisher": "Imarc Games Corporation",
+      "maxPlayers": 10,
+      "minPlayers": 4,
+      "minPlayTime": 45,
+      "maxPlayTime": 45,
+      "type": "boardgame"
+    },
+    {
+      "id": "6616",
+      "image": "https://cf.geekdo-images.com/AsNT0U56ATu9rjG9yg0k2Q__thumb/img/GoB5EO9i7jXPQVFgxc2GSAPfo7Q=/fit-in/200x150/filters:strip_icc()/pic37294.jpg",
+      "name": "<em>Mind</em>field: The Game of US Military Trivia",
+      "rawName": "Mindfield: The Game of US Military Trivia",
+      "categories": [
+        "American Civil War",
+        "American Indian Wars",
+        "American Revolutionary War",
+        "Educational",
+        "Korean War",
+        "Modern Warfare",
+        "Nautical",
+        "Party Game",
+        "Political",
+        "Trivia",
+        "Vietnam War",
+        "World War I",
+        "World War II"
+      ],
+      "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Roll / Spin and Move",
+        "Team-Based Game"
+      ],
+      "yearPublished": 2003,
+      "weight": 0,
+      "rating": 1,
+      "rank": 0,
+      "publisher": "Gontza Games",
+      "maxPlayers": 4,
+      "minPlayers": 2,
+      "minPlayTime": 90,
+      "maxPlayTime": 90,
+      "type": "boardgame"
+    },
+    {
+      "id": "64043",
+      "image": "https://cf.geekdo-images.com/ZJczIROR5ZYACNRCqNBzMw__thumb/img/gaJ5sW66MWWYqgKSkHpv7jJiXNA=/fit-in/200x150/filters:strip_icc()/pic1164633.jpg",
+      "name": "<em>Mind</em>Trap: The Revised Edition",
+      "rawName": "MindTrap: The Revised Edition",
+      "categories": [
+        "Party Game",
+        "Trivia"
+      ],
+      "mechanics": [],
+      "yearPublished": 2007,
+      "weight": 0,
+      "rating": 4.45455,
+      "rank": 0,
+      "publisher": "Blue Opal",
+      "maxPlayers": 0,
+      "minPlayers": 2,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "6218",
+      "image": "https://cf.geekdo-images.com/XN65U2oSdqYAw3EljuwNuw__thumb/img/9rq15qrB8V045o1SQqEUoNc8dso=/fit-in/200x150/filters:strip_icc()/pic34998.jpg",
+      "name": "<em>Mind</em> War: From the Warriors of the Green Planet",
+      "rawName": "Mind War: From the Warriors of the Green Planet",
+      "categories": [
+        "Fantasy",
+        "Fighting",
+        "Science Fiction"
+      ],
+      "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Paper-and-Pencil",
+        "Player Elimination",
+        "Point to Point Movement",
+        "Scenario / Mission / Campaign Game",
+        "Secret Unit Deployment",
+        "Simultaneous Action Selection",
+        "Variable Set-up"
+      ],
+      "yearPublished": 1976,
+      "weight": 1,
+      "rating": 5.77273,
+      "rank": 0,
+      "publisher": "Fact and Fantasy Games",
+      "maxPlayers": 3,
+      "minPlayers": 2,
+      "minPlayTime": 30,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "5463",
+      "image": "https://cf.geekdo-images.com/s5797jBAyFZ2ebHxLJ73NQ__thumb/img/aIT8XToJUQ7zCgaLslGgCKtPhq4=/fit-in/200x150/filters:strip_icc()/pic19716.jpg",
+      "name": "<em>Mind</em> Maze",
+      "rawName": "Mind Maze",
+      "categories": [
+        "Abstract Strategy",
+        "Action / Dexterity",
+        "Maze",
+        "Racing"
+      ],
+      "mechanics": [
+        "Pattern Recognition",
+        "Secret Unit Deployment"
+      ],
+      "yearPublished": 1970,
+      "weight": 1.3333,
+      "rating": 5.65303,
+      "rank": 21197,
+      "publisher": "Parker Brothers",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 10,
+      "maxPlayTime": 10,
+      "type": "boardgame"
+    },
+    {
+      "id": "5425",
+      "image": "https://cf.geekdo-images.com/Fk_V5G_js9YpecAdtUqzuQ__thumb/img/qRnGLpDexclTBcdRm5vpuTxZZjc=/fit-in/200x150/filters:strip_icc()/pic272233.jpg",
+      "name": "<em>Mind</em>Trap II",
+      "rawName": "MindTrap II",
+      "categories": [
+        "Deduction",
+        "Party Game",
+        "Puzzle",
+        "Trivia"
+      ],
+      "mechanics": [],
+      "yearPublished": 1997,
+      "weight": 1.9394,
+      "rating": 5.29147,
+      "rank": 26749,
+      "publisher": "Mattel, Inc.",
+      "maxPlayers": 10,
+      "minPlayers": 2,
+      "minPlayTime": 60,
+      "maxPlayTime": 60,
+      "type": "boardgame"
+    },
+    {
+      "id": "54239",
+      "image": "https://cf.geekdo-images.com/J4NCdeWdMT1wiNj56sN2hw__thumb/img/Hit2_o0Irj_CcijcE2PionYqRxk=/fit-in/200x150/filters:strip_icc()/pic539678.jpg",
+      "name": "<em>Mind</em>flex",
+      "rawName": "Mindflex",
+      "categories": [
+        "Action / Dexterity",
+        "Electronic"
+      ],
+      "mechanics": [],
+      "yearPublished": 2009,
+      "weight": 1.375,
+      "rating": 4.75268,
+      "rank": 26013,
+      "publisher": "Mattel, Inc.",
+      "maxPlayers": 4,
+      "minPlayers": 1,
+      "minPlayTime": 15,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "43537",
+      "image": "https://cf.geekdo-images.com/Y7xxM8MazM4z-EWlD_m9Yg__thumb/img/tEAzH_kE1pMCj8caEpafp-QDx-4=/fit-in/200x150/filters:strip_icc()/pic6798621.jpg",
+      "name": "<em>Mind</em> Your Manners",
+      "rawName": "Mind Your Manners",
+      "categories": [
+        "Children&#039;s Game"
+      ],
+      "mechanics": [
+        "Hand Management"
+      ],
+      "yearPublished": 1987,
+      "weight": 0,
+      "rating": 3.66667,
+      "rank": 0,
+      "publisher": "Smethport Specialty Co.",
+      "maxPlayers": 6,
+      "minPlayers": 2,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "43063",
+      "image": "https://cf.geekdo-images.com/IstobTJuGLQzgZAv6Mjc5A__thumb/img/gy687PZTQwYv0xefONI3dtMOpHo=/fit-in/200x150/filters:strip_icc()/pic489969.jpg",
+      "name": "<em>Mind</em> over Matter",
+      "rawName": "Mind over Matter",
+      "categories": [
+        "Humor"
+      ],
+      "mechanics": [
+        "Simulation"
+      ],
+      "yearPublished": 1967,
+      "weight": 0,
+      "rating": 4,
+      "rank": 0,
+      "publisher": "Ideal",
+      "maxPlayers": 0,
+      "minPlayers": 2,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "42413",
+      "image": "https://cf.geekdo-images.com/uYa6bTt4GuqP0Q3y0EQ4Tw__thumb/img/VSerCCyjTzUBj_NxU-Kr0ljPgt4=/fit-in/200x150/filters:strip_icc()/pic1152076.jpg",
+      "name": "<em>Mind</em> Fizzle",
+      "rawName": "Mind Fizzle",
+      "categories": [
+        "Card Game"
+      ],
+      "mechanics": [
+        "Pattern Recognition"
+      ],
+      "yearPublished": 2008,
+      "weight": 0,
+      "rating": 7,
+      "rank": 0,
+      "publisher": "Mind Fizzle",
+      "maxPlayers": 7,
+      "minPlayers": 1,
+      "minPlayTime": 10,
+      "maxPlayTime": 10,
+      "type": "boardgame"
+    },
+    {
+      "id": "417021",
+      "image": "https://cf.geekdo-images.com/846w-ZeciWBF_NLrG_uoKA__thumb/img/yWm1kBWDh_yI8dJOHEOFOT3F__Y=/fit-in/200x150/filters:strip_icc()/pic8093319.jpg",
+      "name": "<em>Mind</em> Map: Cartes Promotionnelles",
+      "rawName": "Mind Map: Cartes Promotionnelles",
+      "categories": [
+        "Expansion for Base-game",
+        "Deduction",
+        "Party Game"
+      ],
+      "mechanics": [
+        "Deduction"
+      ],
+      "yearPublished": 2024,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "Plato Magazine",
+      "maxPlayers": 14,
+      "minPlayers": 4,
+      "minPlayTime": 20,
+      "maxPlayTime": 30,
+      "type": "boardgameexpansion"
+    },
+    {
+      "id": "412457",
+      "image": "https://cf.geekdo-images.com/l3lLvPkftKTsYRjUfRjv2A__thumb/img/AuNVyGAjxpzSkCbbd-hNSGR8Ing=/fit-in/200x150/filters:strip_icc()/pic8249162.jpg",
+      "name": "<em>Mind</em>bug: Beyond \u2013 Promo Pack",
+      "rawName": "Mindbug: Beyond \u2013 Promo Pack",
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Fighting"
+      ],
+      "mechanics": [
+        "Betting and Bluffing",
+        "Card Play Conflict Resolution",
+        "Hand Management",
+        "Take That"
+      ],
+      "yearPublished": 2023,
+      "weight": 0,
+      "rating": 8.2,
+      "rank": 0,
+      "publisher": "Nerdlab Games",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 15,
+      "maxPlayTime": 25,
+      "type": "boardgameexpansion"
+    },
+    {
+      "id": "406964",
+      "image": "https://cf.geekdo-images.com/6T--XQiY7OIQqB7yzaTLtw__thumb/img/2kxs50XrfPVJFqjEDN02qdDK8iI=/fit-in/200x150/filters:strip_icc()/pic7977562.png",
+      "name": "<em>Mind</em>bug: First Contact \u2013 Watts Dog Promo Card",
+      "rawName": "Mindbug: First Contact \u2013 Watts Dog Promo Card",
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Fantasy"
+      ],
+      "mechanics": [
+        "Betting and Bluffing",
+        "Hand Management",
+        "Take That"
+      ],
+      "yearPublished": 2023,
+      "weight": 0,
+      "rating": 7.33333,
+      "rank": 0,
+      "publisher": "Nerdlab Games",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 15,
+      "maxPlayTime": 25,
+      "type": "boardgameexpansion"
+    },
+    {
+      "id": "405784",
+      "image": "https://cf.geekdo-images.com/Mn6XPrxPQowMIr2xBajX5A__thumb/img/aQlgYbpRokc-bwdYokkrpOIjo1k=/fit-in/200x150/filters:strip_icc()/pic7922403.png",
+      "name": "<em>Mind</em>bug: First Contact \u2013 Future Eric Promo Card",
+      "rawName": "Mindbug: First Contact \u2013 Future Eric Promo Card",
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "mechanics": [],
+      "yearPublished": 2023,
+      "weight": 0,
+      "rating": 7.83333,
+      "rank": 0,
+      "publisher": "Nerdlab Games",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 15,
+      "maxPlayTime": 25,
+      "type": "boardgameexpansion"
+    },
+    {
+      "id": "403645",
+      "image": "https://cf.geekdo-images.com/IkrflInnd-v1mSwQWKhu1A__thumb/img/-l8Y_S4XrMNlRgvIv9WnNKQj3NM=/fit-in/200x150/filters:strip_icc()/pic7809097.jpg",
+      "name": "<em>Mind</em> Your Own Plate",
+      "rawName": "Mind Your Own Plate",
+      "categories": [
+        "Children&#039;s Game",
+        "Educational",
+        "Environmental",
+        "Party Game"
+      ],
+      "mechanics": [
+        "Closed Drafting",
+        "Deck Construction",
+        "Hand Management"
+      ],
+      "yearPublished": 2024,
+      "weight": 1,
+      "rating": 10,
+      "rank": 0,
+      "publisher": "(Self-Published)",
+      "maxPlayers": 4,
+      "minPlayers": 2,
+      "minPlayTime": 20,
+      "maxPlayTime": 45,
+      "type": "boardgame"
+    },
+    {
+      "id": "403514",
+      "image": "https://cf.geekdo-images.com/QNweJNYjrYfcbWA-5MAyqw__thumb/img/XW5G1cdxkIWierkocniFq_-aifg=/fit-in/200x150/filters:strip_icc()/pic7795448.png",
+      "name": "<em>Mind</em> the GIUK!: Cold War Combat in the GIUK Gap",
+      "rawName": "Mind the GIUK!: Cold War Combat in the GIUK Gap",
+      "categories": [
+        "Modern Warfare",
+        "Nautical",
+        "Wargame"
+      ],
+      "mechanics": [
+        "Card Play Conflict Resolution",
+        "Events",
+        "Point to Point Movement"
+      ],
+      "yearPublished": 2022,
+      "weight": 0,
+      "rating": 6,
+      "rank": 0,
+      "publisher": "Against the Odds",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 60,
+      "maxPlayTime": 60,
+      "type": "boardgame"
+    },
+    {
+      "id": "401409",
+      "image": "https://cf.geekdo-images.com/807XtvoAS2tg76ZpwFxuJQ__thumb/img/ffKKPVKX0JlvEJ0Bx8Tpq6jL6u0=/fit-in/200x150/filters:strip_icc()/pic7754303.png",
+      "name": "<em>Mind</em> Map",
+      "rawName": "Mind Map",
+      "categories": [
+        "Deduction",
+        "Party Game"
+      ],
+      "mechanics": [
+        "Deduction"
+      ],
+      "yearPublished": 2024,
+      "weight": 0,
+      "rating": 6.09342,
+      "rank": 17780,
+      "publisher": "Funnyfox",
+      "maxPlayers": 14,
+      "minPlayers": 4,
+      "minPlayTime": 20,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "401303",
+      "image": "https://cf.geekdo-images.com/xaa4aqFVEUc57wvhFppoog__thumb/img/rnmzJOBWzBY-mNXoNac7jMlLAzU=/fit-in/200x150/filters:strip_icc()/pic7835161.jpg",
+      "name": "<em>Mind</em> Cycling",
+      "rawName": "Mind Cycling",
+      "categories": [
+        "Sports"
+      ],
+      "mechanics": [
+        "Track Movement"
+      ],
+      "yearPublished": 2024,
+      "weight": 2,
+      "rating": 9.28571,
+      "rank": 0,
+      "publisher": "(Self-Published)",
+      "maxPlayers": 6,
+      "minPlayers": 2,
+      "minPlayTime": 20,
+      "maxPlayTime": 60,
+      "type": "boardgame"
+    },
+    {
+      "id": "401007",
+      "image": "https://cf.geekdo-images.com/Da6HGLUW94pYrQe1mZ4BrQ__thumb/img/DgPx69sIhUZSB-AKbWrLq1qk20k=/fit-in/200x150/filters:strip_icc()/pic7734834.jpg",
+      "name": "<em>Mind</em> Reaver: Guardinton Board Game",
+      "rawName": "Mind Reaver: Guardinton Board Game",
+      "categories": [
+        "Fantasy",
+        "Miniatures"
+      ],
+      "mechanics": [
+        "Deck Construction",
+        "Grid Movement",
+        "Hand Management",
+        "Multi-Use Cards",
+        "Square Grid"
+      ],
+      "yearPublished": 2023,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "Antler Studio",
+      "maxPlayers": 4,
+      "minPlayers": 2,
+      "minPlayTime": 20,
+      "maxPlayTime": 40,
+      "type": "boardgame"
+    },
+    {
+      "id": "400872",
+      "image": "https://cf.geekdo-images.com/L9srMbQ2RcNncQgCu-Fjng__thumb/img/1IpRCdux2_G-uaey92Cu0iQMsYU=/fit-in/200x150/filters:strip_icc()/pic7737565.jpg",
+      "name": "<em>Mind</em>Match",
+      "rawName": "MindMatch",
+      "categories": [],
+      "mechanics": [],
+      "yearPublished": 2023,
+      "weight": 0,
+      "rating": 6.42857,
+      "rank": 0,
+      "publisher": "HUCH!",
+      "maxPlayers": 6,
+      "minPlayers": 3,
+      "minPlayTime": 30,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "395698",
+      "image": "https://cf.geekdo-images.com/Ptl62o1wo0pbjUO50i9dLg__thumb/img/Ng19IB6LoALVADRS7KBiSaDds0Q=/fit-in/200x150/filters:strip_icc()/pic8249163.jpg",
+      "name": "<em>Mind</em>bug: First Contact \u2013 Promo Pack 2022",
+      "rawName": "Mindbug: First Contact \u2013 Promo Pack 2022",
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Fantasy"
+      ],
+      "mechanics": [
+        "Betting and Bluffing",
+        "Hand Management",
+        "Take That",
+        "Team-Based Game"
+      ],
+      "yearPublished": 2023,
+      "weight": 1,
+      "rating": 8.13523,
+      "rank": 0,
+      "publisher": "Nerdlab Games",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 15,
+      "maxPlayTime": 25,
+      "type": "boardgameexpansion"
+    },
+    {
+      "id": "395261",
+      "image": "https://cf.geekdo-images.com/8Hjw7qhFRU1DtuABNh7t2w__thumb/img/lle7N01II7C_VMpr1c9_n_JzmpU=/fit-in/200x150/filters:strip_icc()/pic8249158.jpg",
+      "name": "<em>Mind</em>bug: First Contact \u2013 Suspicious Gift Promo Card",
+      "rawName": "Mindbug: First Contact \u2013 Suspicious Gift Promo Card",
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Fantasy"
+      ],
+      "mechanics": [
+        "Betting and Bluffing",
+        "Hand Management",
+        "Take That",
+        "Team-Based Game"
+      ],
+      "yearPublished": 2023,
+      "weight": 0,
+      "rating": 8.06667,
+      "rank": 0,
+      "publisher": "IELLO",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 15,
+      "maxPlayTime": 25,
+      "type": "boardgameexpansion"
+    },
+    {
+      "id": "39436",
+      "image": "https://cf.geekdo-images.com/Lh_YXduBv4f5kO-Jzfg49A__thumb/img/yHdLRn2w6jpwof-Or1rh_ycnex0=/fit-in/200x150/filters:strip_icc()/pic1144071.jpg",
+      "name": "<em>Mind</em> Ice",
+      "rawName": "Mind Ice",
+      "categories": [
+        "Dice",
+        "Math"
+      ],
+      "mechanics": [
+        "Dice Rolling",
+        "Pattern Recognition"
+      ],
+      "yearPublished": 1993,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "Wolven Publishing Ltd",
+      "maxPlayers": 4,
+      "minPlayers": 1,
+      "minPlayTime": 30,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "393739",
+      "image": "https://cf.geekdo-images.com/0Lr2z-UpROnLSlYdK3Oo4w__thumb/img/Xx78BbVX9_QOeQpi5MJ3QwQfwGI=/fit-in/200x150/filters:strip_icc()/pic7600225.jpg",
+      "name": "<em>Mind</em>reader: Der thelepathische Partyspa\u00df mit den WIRKLICH hei\u00dfen Fragen",
+      "rawName": "Mindreader: Der thelepathische Partyspa\u00df mit den WIRKLICH hei\u00dfen Fragen",
+      "categories": [
+        "Party Game"
+      ],
+      "mechanics": [],
+      "yearPublished": 2022,
+      "weight": 0,
+      "rating": 6.75,
+      "rank": 0,
+      "publisher": "Noctis Verlag",
+      "maxPlayers": 12,
+      "minPlayers": 3,
+      "minPlayTime": 10,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "392513",
+      "image": "https://cf.geekdo-images.com/mWxs2U-sLcK6T7WCPEloeQ__thumb/img/lRh4Jz1MfZ3H542ZDWZ0PoJo7IY=/fit-in/200x150/filters:strip_icc()/pic7590378.jpg",
+      "name": "<em>Mind</em>bug: Beyond Eternity",
+      "rawName": "Mindbug: Beyond Eternity",
+      "categories": [
+        "Card Game",
+        "Fantasy",
+        "Fighting",
+        "Science Fiction"
+      ],
+      "mechanics": [
+        "Hand Management",
+        "Take That"
+      ],
+      "yearPublished": 2023,
+      "weight": 2,
+      "rating": 8.18108,
+      "rank": 3613,
+      "publisher": "Nerdlab Games",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 15,
+      "maxPlayTime": 25,
+      "type": "boardgame"
+    },
+    {
+      "id": "390173",
+      "image": "https://cf.geekdo-images.com/FrpYkqtL_wzVpa5M4Y_WnA__thumb/img/pTWEMcf20OqIicz7IvseAyLxyNU=/fit-in/200x150/filters:strip_icc()/pic7590380.jpg",
+      "name": "<em>Mind</em>bug: Beyond Evolution",
+      "rawName": "Mindbug: Beyond Evolution",
+      "categories": [
+        "Card Game",
+        "Fighting",
+        "Science Fiction"
+      ],
+      "mechanics": [
+        "Hand Management",
+        "Take That"
+      ],
+      "yearPublished": 2023,
+      "weight": 2,
+      "rating": 8.27992,
+      "rank": 3185,
+      "publisher": "Nerdlab Games",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 15,
+      "maxPlayTime": 25,
+      "type": "boardgame"
+    },
+    {
+      "id": "387527",
+      "image": "https://cf.geekdo-images.com/p7duUagxblcfBFwf2Sx91w__thumb/img/jx81OO_eZ-epjk4W4W6laLmJug4=/fit-in/200x150/filters:strip_icc()/pic7526496.jpg",
+      "name": "<em>Mind</em> Match-2",
+      "rawName": "Mind Match-2",
+      "categories": [
+        "Action / Dexterity",
+        "Party Game",
+        "Real-time"
+      ],
+      "mechanics": [
+        "Acting",
+        "Communication Limits",
+        "Cooperative Game",
+        "Matching"
+      ],
+      "yearPublished": 2023,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "Red Cat Games",
+      "maxPlayers": 6,
+      "minPlayers": 2,
+      "minPlayTime": 5,
+      "maxPlayTime": 5,
+      "type": "boardgame"
+    },
+    {
+      "id": "387523",
+      "image": "https://cf.geekdo-images.com/FW6P1bXh0eiQ0IsrX-lOYA__thumb/img/79veZVWGJ1CaJBErUPSBGSYOkyI=/fit-in/200x150/filters:strip_icc()/pic7526575.jpg",
+      "name": "<em>Mind</em> Match-1",
+      "rawName": "Mind Match-1",
+      "categories": [
+        "Action / Dexterity",
+        "Party Game"
+      ],
+      "mechanics": [
+        "Acting",
+        "Communication Limits",
+        "Cooperative Game",
+        "Matching"
+      ],
+      "yearPublished": 2023,
+      "weight": 0,
+      "rating": 5,
+      "rank": 0,
+      "publisher": "Red Cat Games",
+      "maxPlayers": 6,
+      "minPlayers": 2,
+      "minPlayTime": 5,
+      "maxPlayTime": 5,
+      "type": "boardgame"
+    },
+    {
+      "id": "387490",
+      "image": "https://cf.geekdo-images.com/_VtwtCOmw5lBMuZOpw_0yQ__thumb/img/CURlzIVTbvoRYVvPR4v9pyp38Y0=/fit-in/200x150/filters:strip_icc()/pic7555705.png",
+      "name": "<em>Mind</em> Reader: The Psychic Party Game",
+      "rawName": "Mind Reader: The Psychic Party Game",
+      "categories": [
+        "Party Game"
+      ],
+      "mechanics": [
+        "Paper-and-Pencil",
+        "Questions and Answers"
+      ],
+      "yearPublished": 2023,
+      "weight": 0,
+      "rating": 6,
+      "rank": 0,
+      "publisher": "Dyce Games",
+      "maxPlayers": 13,
+      "minPlayers": 3,
+      "minPlayTime": 30,
+      "maxPlayTime": 45,
+      "type": "boardgame"
+    },
+    {
+      "id": "387281",
+      "image": "https://cf.geekdo-images.com/3t2ZP4pQxJ4GZrIt_a6pHQ__thumb/img/ngrFwYCAvUBIA_Hz8wKsSDNPebw=/fit-in/200x150/filters:strip_icc()/pic7502143.jpg",
+      "name": "<em>Mind</em>Meld: The Party Game",
+      "rawName": "MindMeld: The Party Game",
+      "categories": [
+        "Party Game",
+        "Word Game"
+      ],
+      "mechanics": [
+        "Team-Based Game"
+      ],
+      "yearPublished": 2023,
+      "weight": 0,
+      "rating": 6,
+      "rank": 0,
+      "publisher": "TMI Games",
+      "maxPlayers": 12,
+      "minPlayers": 4,
+      "minPlayTime": 10,
+      "maxPlayTime": 20,
+      "type": "boardgame"
+    },
+    {
+      "id": "382308",
+      "image": "https://cf.geekdo-images.com/8zw1J7yErwJzAVdPnW5gVw__thumb/img/ppfMuSL5BvdFcfT49dfRiu4xz14=/fit-in/200x150/filters:strip_icc()/pic7778783.jpg",
+      "name": "<em>Mind</em>bug: First Contact \u2013 Kangasaurus Rex Promo Card",
+      "rawName": "Mindbug: First Contact \u2013 Kangasaurus Rex Promo Card",
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Fantasy"
+      ],
+      "mechanics": [
+        "Betting and Bluffing",
+        "Hand Management",
+        "Take That",
+        "Team-Based Game"
+      ],
+      "yearPublished": 2023,
+      "weight": 0,
+      "rating": 8.025,
+      "rank": 0,
+      "publisher": "Nerdlab Games",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 15,
+      "maxPlayTime": 25,
+      "type": "boardgameexpansion"
+    },
+    {
+      "id": "378315",
+      "name": "<em>Mind</em> Game",
+      "rawName": "Mind Game",
+      "categories": [
+        "Abstract Strategy",
+        "Bluffing",
+        "Card Game"
+      ],
+      "mechanics": [
+        "Betting and Bluffing",
+        "Deduction",
+        "Hand Management",
+        "Simultaneous Action Selection"
+      ],
+      "yearPublished": 2019,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "Friedegg Games",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 15,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "377515",
+      "image": "https://cf.geekdo-images.com/xOMxRrAtu_7WR2FRu1oDSw__thumb/img/Ur1t0hDFFzGsNkoFzU3wDwUCL6Q=/fit-in/200x150/filters:strip_icc()/pic7333215.png",
+      "name": "<em>Mind</em> Up!",
+      "rawName": "Mind Up!",
+      "categories": [
+        "Card Game",
+        "Number"
+      ],
+      "mechanics": [
+        "Hand Management",
+        "Simultaneous Action Selection"
+      ],
+      "yearPublished": 2023,
+      "weight": 1.2222,
+      "rating": 6.73258,
+      "rank": 4034,
+      "publisher": "Catch Up Games",
+      "maxPlayers": 6,
+      "minPlayers": 3,
+      "minPlayTime": 15,
+      "maxPlayTime": 20,
+      "type": "boardgame"
+    },
+    {
+      "id": "377420",
+      "image": "https://cf.geekdo-images.com/6ynl6mPl7bdmFzXkcXnZbg__thumb/img/3cucDlwwoYIoSYzhpNpm0_gsxs0=/fit-in/200x150/filters:strip_icc()/pic7674676.jpg",
+      "name": "<em>Mind</em> Space",
+      "rawName": "Mind Space",
+      "categories": [
+        "Dice",
+        "Puzzle"
+      ],
+      "mechanics": [
+        "Dice Rolling",
+        "Drawing",
+        "Line Drawing",
+        "Pattern Building",
+        "Simultaneous Action Selection"
+      ],
+      "yearPublished": 2023,
+      "weight": 1.875,
+      "rating": 7.28033,
+      "rank": 3424,
+      "publisher": "Allplay",
+      "maxPlayers": 5,
+      "minPlayers": 1,
+      "minPlayTime": 30,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "376876",
+      "image": "https://cf.geekdo-images.com/ocpRtctCLLW0h5y1GXR4Pg__thumb/img/uCAPDzdg5FvDiDYJ1u9tvmDxJ6s=/fit-in/200x150/filters:strip_icc()/pic7242343.jpg",
+      "name": "<em>Mind</em>bug: First Contact \u2013 Chuck Promo Card",
+      "rawName": "Mindbug: First Contact \u2013 Chuck Promo Card",
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "mechanics": [],
+      "yearPublished": 2022,
+      "weight": 0,
+      "rating": 6.66667,
+      "rank": 0,
+      "publisher": "Nerdlab Games",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgameexpansion"
+    },
+    {
+      "id": "376863",
+      "image": "https://cf.geekdo-images.com/AqPoEMqcNFnBrlc4feCDJw__thumb/img/tGyhT33abKZzAjKnVVtHHuAe7_E=/fit-in/200x150/filters:strip_icc()/pic7253658.jpg",
+      "name": "<em>Mind</em> MGMT: Penny and Arjet Promo Card",
+      "rawName": "Mind MGMT: Penny and Arjet Promo Card",
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "mechanics": [],
+      "yearPublished": 2022,
+      "weight": 0,
+      "rating": 7.66667,
+      "rank": 0,
+      "publisher": "Off the Page Games",
+      "maxPlayers": 5,
+      "minPlayers": 1,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgameexpansion"
+    },
+    {
+      "id": "376629",
+      "image": "https://cf.geekdo-images.com/OJ2-uBmrQRG5znsOCbc9dA__thumb/img/HhLyNnpJMPQATM9hfyOB9jMncmA=/fit-in/200x150/filters:strip_icc()/pic7231770.jpg",
+      "name": "<em>Mind</em>bug: First Contact \u2013 Jazz Dog Promo Card",
+      "rawName": "Mindbug: First Contact \u2013 Jazz Dog Promo Card",
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "mechanics": [],
+      "yearPublished": 2022,
+      "weight": 0,
+      "rating": 7.8381,
+      "rank": 0,
+      "publisher": "Nerdlab Games",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgameexpansion"
+    },
+    {
+      "id": "372389",
+      "image": "https://cf.geekdo-images.com/S4B4Kx3riQKKgiBDOUSbdQ__thumb/img/0wl1urrvD_kUxT3rEv2iRuFueS4=/fit-in/200x150/filters:strip_icc()/pic7119300.jpg",
+      "name": "<em>Mind</em>bug: First Contact \u2013 Essen Spiel 2022 Promo Cards",
+      "rawName": "Mindbug: First Contact \u2013 Essen Spiel 2022 Promo Cards",
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Fantasy"
+      ],
+      "mechanics": [
+        "Betting and Bluffing",
+        "Hand Management",
+        "Take That"
+      ],
+      "yearPublished": 2022,
+      "weight": 0,
+      "rating": 7.93016,
+      "rank": 0,
+      "publisher": "Nerdlab Games",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 15,
+      "maxPlayTime": 25,
+      "type": "boardgameexpansion"
+    },
+    {
+      "id": "368718",
+      "image": "https://cf.geekdo-images.com/NtWgEjGePlmolGZaudNeIg__thumb/img/7iVwhdM6OtSsJ4r57VpXp6nssJQ=/fit-in/200x150/filters:strip_icc()/pic7579903.jpg",
+      "name": "<em>Mind</em>bug: First Contact \u2013 New Servants",
+      "rawName": "Mindbug: First Contact \u2013 New Servants",
+      "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Fantasy"
+      ],
+      "mechanics": [
+        "Betting and Bluffing",
+        "Hand Management",
+        "Take That"
+      ],
+      "yearPublished": 2022,
+      "weight": 2,
+      "rating": 7.96924,
+      "rank": 0,
+      "publisher": "Nerdlab Games",
+      "maxPlayers": 4,
+      "minPlayers": 2,
+      "minPlayTime": 15,
+      "maxPlayTime": 25,
+      "type": "boardgameexpansion"
+    },
+    {
+      "id": "35939",
+      "image": "https://cf.geekdo-images.com/fHiOZYGfmhzfLHAnSi4EoQ__thumb/img/WL89ym6Rw07Ky-VS5gJ4lLLiY5g=/fit-in/200x150/filters:strip_icc()/pic327235.jpg",
+      "name": "<em>Mind</em>gammon",
+      "rawName": "Mindgammon",
+      "categories": [
+        "Abstract Strategy",
+        "Dice",
+        "Math"
+      ],
+      "mechanics": [
+        "Dice Rolling",
+        "Pattern Recognition"
+      ],
+      "yearPublished": 2007,
+      "weight": 3,
+      "rating": 7.77778,
+      "rank": 0,
+      "publisher": "Mindgammon, Ltd",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "3588",
+      "image": "https://cf.geekdo-images.com/2UUD9PY_6CMHRDm5UMEhdg__thumb/img/oJG594T-MTbBWAdIVX2mAo1K9Ik=/fit-in/200x150/filters:strip_icc()/pic51973.jpg",
+      "name": "<em>Mind</em> Mover 3",
+      "rawName": "Mind Mover 3",
+      "categories": [
+        "Deduction",
+        "Word Game"
+      ],
+      "mechanics": [
+        "Tile Placement"
+      ],
+      "yearPublished": 1974,
+      "weight": 1,
+      "rating": 3.96154,
+      "rank": 0,
+      "publisher": "Mind Movers Limited",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 45,
+      "maxPlayTime": 45,
+      "type": "boardgame"
+    },
+    {
+      "id": "357010",
+      "image": "https://cf.geekdo-images.com/S8fkqoRlylh4qmjJIcG8FA__thumb/img/-Apm13X93InyTGCcuJZ520LRzg8=/fit-in/200x150/filters:strip_icc()/pic6694985.jpg",
+      "name": "<em>Mind</em> MGMT: Secret Missions",
+      "rawName": "Mind MGMT: Secret Missions",
+      "categories": [
+        "Expansion for Base-game",
+        "Comic Book / Strip",
+        "Deduction",
+        "Fantasy",
+        "Science Fiction",
+        "Spies/Secret Agents"
+      ],
+      "mechanics": [
+        "Grid Movement",
+        "Hidden Movement",
+        "Point to Point Movement",
+        "Team-Based Game",
+        "Variable Player Powers"
+      ],
+      "yearPublished": 2021,
+      "weight": 0,
+      "rating": 7.9,
+      "rank": 0,
+      "publisher": "Off the Page Games",
+      "maxPlayers": 5,
+      "minPlayers": 1,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgameexpansion"
+    },
+    {
+      "id": "352128",
+      "name": "<em>Mind</em> on the Movies",
+      "rawName": "Mind on the Movies",
+      "categories": [
+        "Card Game",
+        "Humor",
+        "Party Game"
+      ],
+      "mechanics": [
+        "Player Judge"
+      ],
+      "yearPublished": 2018,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "One80 Games",
+      "maxPlayers": 7,
+      "minPlayers": 3,
+      "minPlayTime": 30,
+      "maxPlayTime": 60,
+      "type": "boardgame"
+    },
+    {
+      "id": "351031",
+      "image": "https://cf.geekdo-images.com/BIqxjGKlRdbjRHp0IM1q2g__thumb/img/l1cNNF4jG9O3TGZ7Ea0tQCHyMbI=/fit-in/200x150/filters:strip_icc()/pic6531691.jpg",
+      "name": "<em>Mind</em>burners: Into The Void",
+      "rawName": "Mindburners: Into The Void",
+      "categories": [
+        "Card Game",
+        "Print & Play",
+        "Science Fiction"
+      ],
+      "mechanics": [
+        "Hand Management",
+        "Open Drafting",
+        "Pattern Building",
+        "Solo / Solitaire Game",
+        "Victory Points as a Resource"
+      ],
+      "yearPublished": 2021,
+      "weight": 1,
+      "rating": 7.3,
+      "rank": 0,
+      "publisher": "(Self-Published)",
+      "maxPlayers": 2,
+      "minPlayers": 1,
+      "minPlayTime": 10,
+      "maxPlayTime": 15,
+      "type": "boardgame"
+    },
+    {
+      "id": "349031",
+      "name": "<em>Mind</em>Monsters",
+      "rawName": "MindMonsters",
+      "categories": [
+        "Abstract Strategy",
+        "Card Game",
+        "Children's Game",
+        "Fantasy"
+      ],
+      "mechanics": [
+        "Acting",
+        "Action Points",
+        "Cooperative Game",
+        "Hand Management",
+        "Matching",
+        "Storytelling"
+      ],
+      "yearPublished": 2021,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "(Self-Published)",
+      "maxPlayers": 3,
+      "minPlayers": 1,
+      "minPlayTime": 20,
+      "maxPlayTime": 120,
+      "type": "boardgame"
+    },
+    {
+      "id": "345584",
+      "image": "https://cf.geekdo-images.com/b8gl6w-BqUVgBURdyFcFZg__thumb/img/dCGADcFu3CrjHeao9JKibUHYUik=/fit-in/200x150/filters:strip_icc()/pic7646386.png",
+      "name": "<em>Mind</em>bug: First Contact",
+      "rawName": "Mindbug: First Contact",
+      "categories": [
+        "Card Game",
+        "Fantasy"
+      ],
+      "mechanics": [
+        "Hand Management",
+        "Take That"
+      ],
+      "yearPublished": 2022,
+      "weight": 1.9448,
+      "rating": 7.68912,
+      "rank": 403,
+      "publisher": "Nerdlab Games",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 15,
+      "maxPlayTime": 25,
+      "type": "boardgame"
+    },
+    {
+      "id": "339992",
+      "image": "https://cf.geekdo-images.com/Oo6p24g_eb0CI5SGPUazfg__thumb/img/DdunOWWpKld-EHrxsy3rK5XSN_U=/fit-in/200x150/filters:strip_icc()/pic6214993.jpg",
+      "name": "<em>Mind</em>fulness Game",
+      "rawName": "Mindfulness Game",
+      "categories": [
+        "Children&#039;s Game",
+        "Educational"
+      ],
+      "mechanics": [],
+      "yearPublished": 2019,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "Artagia Games",
+      "maxPlayers": 6,
+      "minPlayers": 2,
+      "minPlayTime": 20,
+      "maxPlayTime": 2,
+      "type": "boardgame"
+    },
+    {
+      "id": "336677",
+      "image": "https://cf.geekdo-images.com/GerIcvxVfDMCP-fO232Drg__thumb/img/wU7LBifJeHyja5k-dbiQBbeMTUo=/fit-in/200x150/filters:strip_icc()/pic6119041.png",
+      "name": "<em>Mind</em>walkers",
+      "rawName": "Mindwalkers",
+      "categories": [
+        "Bluffing",
+        "Deduction",
+        "Fantasy"
+      ],
+      "mechanics": [
+        "Deduction",
+        "Hidden Roles",
+        "Negotiation",
+        "Traitor Game",
+        "Turn Order: Claim Action",
+        "Variable Player Powers",
+        "Voting"
+      ],
+      "yearPublished": 2021,
+      "weight": 2,
+      "rating": 10,
+      "rank": 0,
+      "publisher": "Mindwalkers Gaming",
+      "maxPlayers": 8,
+      "minPlayers": 4,
+      "minPlayTime": 45,
+      "maxPlayTime": 75,
+      "type": "boardgame"
+    },
+    {
+      "id": "334482",
+      "image": "https://cf.geekdo-images.com/tV_Sy2LMlZkzfsfiH125KQ__thumb/img/_DWA_jswELBE0VMrTK8cCyzeOfM=/fit-in/200x150/filters:strip_icc()/pic6479042.jpg",
+      "name": "<em>Mind</em>erheiten Quartett",
+      "rawName": "Minderheiten Quartett",
+      "categories": [
+        "Card Game",
+        "Humor"
+      ],
+      "mechanics": [
+        "Set Collection"
+      ],
+      "yearPublished": 2020,
+      "weight": 1,
+      "rating": 5.95833,
+      "rank": 0,
+      "publisher": "Leipziger Spiele",
+      "maxPlayers": 6,
+      "minPlayers": 2,
+      "minPlayTime": 20,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "328640",
+      "image": "https://cf.geekdo-images.com/K3s94neiTOOXOQVF8vAyGg__thumb/img/IKMPRqphlbNGeJ-44X2eQTpv_vA=/fit-in/200x150/filters:strip_icc()/pic5914441.jpg",
+      "name": "<em>Mind</em> Map AI",
+      "rawName": "Mind Map AI",
+      "categories": [
+        "Dice",
+        "Print & Play",
+        "Science Fiction"
+      ],
+      "mechanics": [
+        "Communication Limits",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Paper-and-Pencil"
+      ],
+      "yearPublished": 2020,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "Kuriosum Verlag",
+      "maxPlayers": 4,
+      "minPlayers": 2,
+      "minPlayTime": 35,
+      "maxPlayTime": 60,
+      "type": "boardgame"
+    },
+    {
+      "id": "32369",
+      "image": "https://cf.geekdo-images.com/CK3cPKrVvhjXUuKcbqG1gg__thumb/img/k9ygtQ0jnKDT46LOaU_WaWX3sWc=/fit-in/200x150/filters:strip_icc()/pic306544.jpg",
+      "name": "<em>Mind</em> Twist",
+      "rawName": "Mind Twist",
+      "categories": [
+        "Bluffing",
+        "Racing"
+      ],
+      "mechanics": [],
+      "yearPublished": 2007,
+      "weight": 1.2857,
+      "rating": 4.77073,
+      "rank": 25320,
+      "publisher": "Imagination Games",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 30,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "323377",
+      "image": "https://cf.geekdo-images.com/742px5E-1DV2wH-0ykK5ew__thumb/img/W3FCHXq9twP4DQlB-la-z-xSgdQ=/fit-in/200x150/filters:strip_icc()/pic8174631.jpg",
+      "name": "<em>Mind</em> the Gap",
+      "rawName": "Mind the Gap",
+      "categories": [
+        "Trivia"
+      ],
+      "mechanics": [],
+      "yearPublished": 2020,
+      "weight": 1,
+      "rating": 5.7072,
+      "rank": 21899,
+      "publisher": "Solid Roots, LLC",
+      "maxPlayers": 99,
+      "minPlayers": 2,
+      "minPlayTime": 10,
+      "maxPlayTime": 60,
+      "type": "boardgame"
+    },
+    {
+      "id": "32212",
+      "image": "https://cf.geekdo-images.com/28K9OedAF-oBtHQF7Nsxeg__thumb/img/1d06bnJCaY14IkqNwPDPPA4AejM=/fit-in/200x150/filters:strip_icc()/pic255940.jpg",
+      "name": "<em>Mind</em> Your Manners",
+      "rawName": "Mind Your Manners",
+      "categories": [
+        "Educational"
+      ],
+      "mechanics": [],
+      "yearPublished": 1985,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "At Ease, Inc.",
+      "maxPlayers": 0,
+      "minPlayers": 0,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "316064",
+      "image": "https://cf.geekdo-images.com/jQSnTxWbC7rPq3bRn_mNCg__thumb/img/n3Y0oluvwqVOhUFZiv7c3kqLVNM=/fit-in/200x150/filters:strip_icc()/pic5572363.jpg",
+      "name": "<em>Mind</em> Bullets: Psionics for Five Parsecs from Home",
+      "rawName": "Mind Bullets: Psionics for Five Parsecs from Home",
+      "categories": [
+        "Expansion for Base-game"
+      ],
+      "mechanics": [
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game"
+      ],
+      "yearPublished": 2019,
+      "weight": 0,
+      "rating": 7.5,
+      "rank": 0,
+      "publisher": "Nordic Weasel Games",
+      "maxPlayers": 1,
+      "minPlayers": 1,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgameexpansion"
+    },
+    {
+      "id": "31082",
+      "image": "https://cf.geekdo-images.com/YyahA2XOpdadyAUdoNcu7A__thumb/img/lylTueJiZVSjPBHIi8nX7CCVwmU=/fit-in/200x150/filters:strip_icc()/pic233941.jpg",
+      "name": "<em>Mind</em> Ninja",
+      "rawName": "Mind Ninja",
+      "categories": [
+        "Abstract Strategy"
+      ],
+      "mechanics": [
+        "Pattern Building",
+        "Pattern Recognition"
+      ],
+      "yearPublished": 2007,
+      "weight": 3.2857,
+      "rating": 6.82143,
+      "rank": 0,
+      "publisher": "(Self-Published)",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 60,
+      "maxPlayTime": 60,
+      "type": "boardgame"
+    },
+    {
+      "id": "298478",
+      "image": "",
+      "name": "<em>Mind</em>Maze: Bits and Bobs",
+      "rawName": "MindMaze: Bits and Bobs",
+      "categories": [
+        "Party Game"
+      ],
+      "mechanics": [
+        "Storytelling"
+      ],
+      "yearPublished": 2012,
+      "weight": 0,
+      "rating": 5.75,
+      "rank": 0,
+      "publisher": "Magellan",
+      "maxPlayers": 99,
+      "minPlayers": 2,
+      "minPlayTime": 10,
+      "maxPlayTime": 4,
+      "type": "boardgame"
+    },
+    {
+      "id": "292684",
+      "image": "https://cf.geekdo-images.com/hHcBJlO2pGdgO33G5ZEpPg__thumb/img/qsq9HGeNGbd1vGkUO7jCvqhQQUU=/fit-in/200x150/filters:strip_icc()/pic5271363.jpg",
+      "name": "<em>Mind</em>burners",
+      "rawName": "Mindburners",
+      "categories": [
+        "Card Game"
+      ],
+      "mechanics": [
+        "Events",
+        "Push Your Luck",
+        "Solo / Solitaire Game",
+        "Take That"
+      ],
+      "yearPublished": 2020,
+      "weight": 1.1667,
+      "rating": 6.87405,
+      "rank": 11583,
+      "publisher": "(Self-Published)",
+      "maxPlayers": 4,
+      "minPlayers": 1,
+      "minPlayTime": 30,
+      "maxPlayTime": 60,
+      "type": "boardgame"
+    },
+    {
+      "id": "291582",
+      "image": "https://cf.geekdo-images.com/DDLPRs4aAHSX-NpOhZMzwQ__thumb/img/zwB9kwJML-4hu0EqLF2P_eEaMtw=/fit-in/200x150/filters:strip_icc()/pic5273587.jpg",
+      "name": "<em>Mind</em>blowon",
+      "rawName": "Mindblowon",
+      "categories": [
+        "Card Game",
+        "Humor",
+        "Party Game"
+      ],
+      "mechanics": [
+        "Card Play Conflict Resolution",
+        "Hand Management",
+        "Player Elimination",
+        "Push Your Luck",
+        "Take That",
+        "Variable Player Powers"
+      ],
+      "yearPublished": 2019,
+      "weight": 0,
+      "rating": 5.1,
+      "rank": 0,
+      "publisher": "Masbro",
+      "maxPlayers": 6,
+      "minPlayers": 3,
+      "minPlayTime": 15,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "290714",
+      "name": "<em>Mind</em>'s Eye",
+      "rawName": "Mind&#039;s Eye",
+      "categories": [
+        "Card Game"
+      ],
+      "mechanics": [
+        "Player Elimination",
+        "Rock-Paper-Scissors"
+      ],
+      "yearPublished": 0,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "DMR Creative Group",
+      "maxPlayers": 3,
+      "minPlayers": 2,
+      "minPlayTime": 10,
+      "maxPlayTime": 25,
+      "type": "boardgame"
+    },
+    {
+      "id": "287912",
+      "image": "",
+      "name": "<em>Mind</em>Maze: Jeunes Detectives",
+      "rawName": "MindMaze: Jeunes Detectives",
+      "categories": [
+        "Party Game"
+      ],
+      "mechanics": [
+        "Storytelling"
+      ],
+      "yearPublished": 2012,
+      "weight": 0,
+      "rating": 6,
+      "rank": 0,
+      "publisher": "Edge Entertainment",
+      "maxPlayers": 99,
+      "minPlayers": 2,
+      "minPlayTime": 10,
+      "maxPlayTime": 40,
+      "type": "boardgame"
+    },
+    {
+      "id": "284653",
+      "image": "https://cf.geekdo-images.com/hYP-VIJGRFR8yB78-UN7Rg__thumb/img/e0Yk_RzMK0b7jwcoR96UeJpjy3c=/fit-in/200x150/filters:strip_icc()/pic5154610.jpg",
+      "name": "<em>Mind</em> MGMT: The Psychic Espionage \u201cGame.\u201d",
+      "rawName": "Mind MGMT: The Psychic Espionage \u201cGame.\u201d",
+      "categories": [
+        "Comic Book / Strip",
+        "Deduction",
+        "Spies / Secret Agents"
+      ],
+      "mechanics": [
+        "Cooperative Game",
+        "Deduction",
+        "Grid Movement",
+        "Hidden Movement",
+        "Paper-and-Pencil",
+        "Point to Point Movement",
+        "Team-Based Game",
+        "Variable Player Powers"
+      ],
+      "yearPublished": 2021,
+      "weight": 2.9219,
+      "rating": 7.89765,
+      "rank": 295,
+      "publisher": "Off the Page Games",
+      "maxPlayers": 5,
+      "minPlayers": 1,
+      "minPlayTime": 60,
+      "maxPlayTime": 60,
+      "type": "boardgame"
+    },
+    {
+      "id": "276434",
+      "image": "https://cf.geekdo-images.com/xQZXknIlTpCHONEgs0MaPA__thumb/img/HrPEBxf9BWLJx8Z3susZ243RwEw=/fit-in/200x150/filters:strip_icc()/pic4655599.png",
+      "name": "<em>Mind</em>block",
+      "rawName": "Mindblock",
+      "categories": [],
+      "mechanics": [
+        "Hand Management"
+      ],
+      "yearPublished": 2019,
+      "weight": 0,
+      "rating": 6.7,
+      "rank": 0,
+      "publisher": "Blue Orange Games",
+      "maxPlayers": 4,
+      "minPlayers": 2,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "26596",
+      "image": "https://cf.geekdo-images.com/3fhHgtKPFy3RqEiEjpPZsg__thumb/img/gPk2xTfOTKw0daXcTNLlM7oTIuc=/fit-in/200x150/filters:strip_icc()/pic193259.jpg",
+      "name": "<em>Mind</em>'s I: Junior Edition",
+      "rawName": "Mind&#039;s I: Junior Edition",
+      "categories": [
+        "Children&#039;s Game",
+        "Deduction",
+        "Educational",
+        "Memory",
+        "Puzzle",
+        "Trivia",
+        "Word Game"
+      ],
+      "mechanics": [
+        "Memory",
+        "Roll / Spin and Move"
+      ],
+      "yearPublished": 2002,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "International Playthings, Inc.",
+      "maxPlayers": 6,
+      "minPlayers": 2,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "26426",
+      "name": "<em>Mind</em> Scrambler",
+      "rawName": "Mind Scrambler",
+      "categories": [
+        "Action / Dexterity"
+      ],
+      "mechanics": [],
+      "yearPublished": 2004,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "Radica",
+      "maxPlayers": 4,
+      "minPlayers": 1,
+      "minPlayTime": 2004,
+      "maxPlayTime": 2004,
+      "type": "boardgame"
+    },
+    {
+      "id": "260148",
+      "image": "https://cf.geekdo-images.com/PZyipNrybKbui_38Gxd_Ag__thumb/img/IFvXVTyBR9QBjWIdvt4dLB3f3FY=/fit-in/200x150/filters:strip_icc()/pic4333385.png",
+      "name": "<em>Mind</em> the Gap (fan expansion for MBT: Second Edition)",
+      "rawName": "Mind the Gap (fan expansion for MBT: Second Edition)",
+      "categories": [
+        "Expansion for Base-game",
+        "Fan Expansion",
+        "Modern Warfare",
+        "Wargame"
+      ],
+      "mechanics": [
+        "Hexagon Grid"
+      ],
+      "yearPublished": 2018,
+      "weight": 0,
+      "rating": 7.8,
+      "rank": 0,
+      "publisher": "StrongPoint Modeling and Simulation, LLC",
+      "maxPlayers": 12,
+      "minPlayers": 2,
+      "minPlayTime": 240,
+      "maxPlayTime": 360,
+      "type": "boardgameexpansion"
+    },
+    {
+      "id": "25414",
+      "image": "https://cf.geekdo-images.com/FvRn3H1aV1pU-qpNFX-boA__thumb/img/eBE5RSYzPTuwuOsy3VFZnX-hnxY=/fit-in/200x150/filters:strip_icc()/pic273820.jpg",
+      "name": "<em>Mind</em>rubble",
+      "rawName": "Mindrubble",
+      "categories": [
+        "Abstract Strategy",
+        "Trivia"
+      ],
+      "mechanics": [
+        "Enclosure"
+      ],
+      "yearPublished": 2004,
+      "weight": 0,
+      "rating": 3.4,
+      "rank": 0,
+      "publisher": "LunaNL",
+      "maxPlayers": 4,
+      "minPlayers": 2,
+      "minPlayTime": 60,
+      "maxPlayTime": 60,
+      "type": "boardgame"
+    },
+    {
+      "id": "25259",
+      "image": "https://cf.geekdo-images.com/id3rhs24qh7CXBM2HmCKHw__thumb/img/YFdVq4FbQnM4atrHMZVV67quQco=/fit-in/200x150/filters:strip_icc()/pic143454.jpg",
+      "name": "<em>Mind</em> Reader",
+      "rawName": "Mind Reader",
+      "categories": [
+        "Deduction",
+        "Puzzle"
+      ],
+      "mechanics": [],
+      "yearPublished": 1980,
+      "weight": 0,
+      "rating": 4.5,
+      "rank": 0,
+      "publisher": "Galvin Productions",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 30,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "251680",
+      "image": "https://cf.geekdo-images.com/wMf9rdi1-WL6BWR6nXQhng__thumb/img/2BQ6KB4xKHJbyd1Ohai3lVI-dzE=/fit-in/200x150/filters:strip_icc()/pic4137787.jpg",
+      "name": "<em>Mind</em> Your Numbers",
+      "rawName": "Mind Your Numbers",
+      "categories": [
+        "Math"
+      ],
+      "mechanics": [],
+      "yearPublished": 2018,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "Kitki",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 20,
+      "maxPlayTime": 40,
+      "type": "boardgame"
+    },
+    {
+      "id": "25033",
+      "image": "https://cf.geekdo-images.com/Rm_qouyLrjvWJ80xgqwYCQ__thumb/img/L1SQ686ynuuC704sGjmQfPWuUeI=/fit-in/200x150/filters:strip_icc()/pic1416604.jpg",
+      "name": "<em>Mind</em> Power",
+      "rawName": "Mind Power",
+      "categories": [
+        "Abstract Strategy",
+        "Bluffing",
+        "Card Game",
+        "Deduction",
+        "Dice",
+        "Economic",
+        "Educational",
+        "Math",
+        "Maze",
+        "Memory",
+        "Negotiation",
+        "Party Game",
+        "Political",
+        "Puzzle",
+        "Trivia",
+        "Word Game"
+      ],
+      "mechanics": [
+        "Chit-Pull System",
+        "Commodity Speculation",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Memory",
+        "Paper-and-Pencil",
+        "Pattern Building",
+        "Pattern Recognition",
+        "Point to Point Movement",
+        "Role Playing",
+        "Team-Based Game",
+        "Trading",
+        "Variable Player Powers"
+      ],
+      "yearPublished": 1995,
+      "weight": 0,
+      "rating": 5,
+      "rank": 0,
+      "publisher": "Dorling Kindersley (DK)",
+      "maxPlayers": 0,
+      "minPlayers": 0,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "24684",
+      "image": "https://cf.geekdo-images.com/8VAHnJZdnkO40tCxlr5ULg__thumb/img/8aZtzjMsJase1zi8_LW1PjF_Lzw=/fit-in/200x150/filters:strip_icc()/pic146124.jpg",
+      "name": "<em>Mind</em>stalkers",
+      "rawName": "Mindstalkers",
+      "categories": [
+        "Collectible Components",
+        "Fantasy",
+        "Fighting",
+        "Humor",
+        "Miniatures",
+        "Science Fiction"
+      ],
+      "mechanics": [
+        "Action Points",
+        "Area Movement",
+        "Campaign / Battle Card Driven",
+        "Dice Rolling",
+        "Role Playing",
+        "Set Collection",
+        "Simultaneous Action Selection",
+        "Variable Player Powers"
+      ],
+      "yearPublished": 2004,
+      "weight": 3.5,
+      "rating": 7.75,
+      "rank": 0,
+      "publisher": "ManorHouse minatures",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "229537",
+      "image": "https://cf.geekdo-images.com/SZgt6N-v4cgXf4tE6Sf7sA__thumb/img/bAeH5z0ozii2pD5AxRzWzUw63qY=/fit-in/200x150/filters:strip_icc()/pic3604392.jpg",
+      "name": "<em>Mind</em> the Gap",
+      "rawName": "Mind the Gap",
+      "categories": [
+        "Card Game"
+      ],
+      "mechanics": [
+        "Hand Management"
+      ],
+      "yearPublished": 2017,
+      "weight": 1,
+      "rating": 5.78245,
+      "rank": 20612,
+      "publisher": "H. P. Gibson & Sons",
+      "maxPlayers": 8,
+      "minPlayers": 2,
+      "minPlayTime": 10,
+      "maxPlayTime": 20,
+      "type": "boardgame"
+    },
+    {
+      "id": "22251",
+      "image": "https://cf.geekdo-images.com/gSP4vq2NR-F0hk-_32ir9g__thumb/img/oZESNedCIkGI7BWyvK2C43ZLV4U=/fit-in/200x150/filters:strip_icc()/pic193255.jpg",
+      "name": "<em>Mind</em>'s I",
+      "rawName": "Mind&#039;s I",
+      "categories": [
+        "Deduction",
+        "Trivia",
+        "Word Game"
+      ],
+      "mechanics": [
+        "Pattern Recognition"
+      ],
+      "yearPublished": 2006,
+      "weight": 0,
+      "rating": 3.07143,
+      "rank": 0,
+      "publisher": "International Playthings, Inc.",
+      "maxPlayers": 6,
+      "minPlayers": 2,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "21976",
+      "image": "https://cf.geekdo-images.com/NFDzcFefiSWJVxKfeY8nfQ__thumb/img/iFS4agKXlk36KXuwnQHsmMzx0No=/fit-in/200x150/filters:strip_icc()/pic113261.jpg",
+      "name": "<em>Mind</em>benders",
+      "rawName": "Mindbenders",
+      "categories": [
+        "Deduction",
+        "Party Game",
+        "Puzzle"
+      ],
+      "mechanics": [
+        "Modular Board"
+      ],
+      "yearPublished": 0,
+      "weight": 1,
+      "rating": 3.35,
+      "rank": 0,
+      "publisher": "BV Leisure Ltd",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 60,
+      "maxPlayTime": 60,
+      "type": "boardgame"
+    },
+    {
+      "id": "219312",
+      "image": "https://cf.geekdo-images.com/ap9Jz0A2uJQx5jx-dcKEhA__thumb/img/Az1bnHJll1nvj4Qnvm0hUXq-egs=/fit-in/200x150/filters:strip_icc()/pic3434135.jpg",
+      "name": "<em>MIND</em>JOB",
+      "rawName": "MINDJOB",
+      "categories": [
+        "Card Game",
+        "Humor",
+        "Mature / Adult",
+        "Party Game"
+      ],
+      "mechanics": [],
+      "yearPublished": 2016,
+      "weight": 1,
+      "rating": 6.04417,
+      "rank": 20925,
+      "publisher": "(Self-Published)",
+      "maxPlayers": 8,
+      "minPlayers": 2,
+      "minPlayTime": 15,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "218295",
+      "image": "https://cf.geekdo-images.com/vjK41I32oee1thru32R78A__thumb/img/WGhRsswp-DnUKzTE7NNt0NX6-6c=/fit-in/200x150/filters:strip_icc()/pic4089846.jpg",
+      "name": "<em>Mind</em>Trap 20th Anniversary Edition",
+      "rawName": "MindTrap 20th Anniversary Edition",
+      "categories": [
+        "Deduction",
+        "Party Game"
+      ],
+      "mechanics": [
+        "Team-Based Game"
+      ],
+      "yearPublished": 2013,
+      "weight": 1,
+      "rating": 5.09545,
+      "rank": 0,
+      "publisher": "Outset Media",
+      "maxPlayers": 99,
+      "minPlayers": 2,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "213548",
+      "image": "https://cf.geekdo-images.com/08ZrzFeqJeiPwH26DyDuCg__thumb/img/4ushyINFRk8ExMYg_qI4e4fLqKc=/fit-in/200x150/filters:strip_icc()/pic3298988.png",
+      "name": "<em>Mind</em> Wreck",
+      "rawName": "Mind Wreck",
+      "categories": [
+        "Card Game",
+        "Mature / Adult"
+      ],
+      "mechanics": [
+        "Take That"
+      ],
+      "yearPublished": 2016,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "(Self-Published)",
+      "maxPlayers": 4,
+      "minPlayers": 2,
+      "minPlayTime": 30,
+      "maxPlayTime": 90,
+      "type": "boardgame"
+    },
+    {
+      "id": "212628",
+      "name": "<em>Mind</em> & Emotions Board Game",
+      "rawName": "Mind & Emotions Board Game",
+      "categories": [
+        "Party Game"
+      ],
+      "mechanics": [
+        "Storytelling"
+      ],
+      "yearPublished": 2016,
+      "weight": 0,
+      "rating": 0,
+      "rank": 0,
+      "publisher": "(Self-Published)",
+      "maxPlayers": 6,
+      "minPlayers": 2,
+      "minPlayTime": 20,
+      "maxPlayTime": 120,
+      "type": "boardgame"
+    },
+    {
+      "id": "198133",
+      "image": "https://cf.geekdo-images.com/S7FAmtcMI2eob2LBaPuNAg__thumb/img/K8KLy1tErS0BdrHP8b5dE0mDw0E=/fit-in/200x150/filters:strip_icc()/pic2979298.jpg",
+      "name": "<em>Mind</em>Trap Audio Mystery Edition",
+      "rawName": "MindTrap Audio Mystery Edition",
+      "categories": [
+        "Deduction",
+        "Memory",
+        "Party Game"
+      ],
+      "mechanics": [
+        "Memory"
+      ],
+      "yearPublished": 1994,
+      "weight": 0,
+      "rating": 7.5,
+      "rank": 0,
+      "publisher": "MindTrap Games, Inc.",
+      "maxPlayers": 0,
+      "minPlayers": 2,
+      "minPlayTime": 0,
+      "maxPlayTime": 120,
+      "type": "boardgame"
+    },
+    {
+      "id": "19576",
+      "image": "https://cf.geekdo-images.com/0mL647pKsOWUzNdZRdl4Qw__thumb/img/tEtcFsl2TS5uNJQeRpAd3UU8fuM=/fit-in/200x150/filters:strip_icc()/pic306192.jpg",
+      "name": "<em>Mind</em> the Gap",
+      "rawName": "Mind the Gap",
+      "categories": [
+        "Educational",
+        "Travel"
+      ],
+      "mechanics": [
+        "Roll / Spin and Move"
+      ],
+      "yearPublished": 2004,
+      "weight": 0,
+      "rating": 2.9925,
+      "rank": 0,
+      "publisher": "Colby Enterprises",
+      "maxPlayers": 6,
+      "minPlayers": 2,
+      "minPlayTime": 15,
+      "maxPlayTime": 15,
+      "type": "boardgame"
+    },
+    {
+      "id": "19338",
+      "image": "https://cf.geekdo-images.com/94tzUvlzW2Svc4PiYKn4hw__thumb/img/FmRC442059txqQvuYZaef7CiDIE=/fit-in/200x150/filters:strip_icc()/pic88806.jpg",
+      "name": "<em>Mind</em> Your Language",
+      "rawName": "Mind Your Language",
+      "categories": [
+        "Educational",
+        "Humor",
+        "Trivia"
+      ],
+      "mechanics": [
+        "Acting"
+      ],
+      "yearPublished": 1992,
+      "weight": 0,
+      "rating": 4.8125,
+      "rank": 0,
+      "publisher": "Spear&#039;s Games",
+      "maxPlayers": 0,
+      "minPlayers": 0,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "193275",
+      "image": "https://cf.geekdo-images.com/DlBWAEonR4UzLsZFPlQqwg__thumb/img/omZmh8TbG12XhVuTCQ61Ixti7cI=/fit-in/200x150/filters:strip_icc()/pic3138802.jpg",
+      "name": "<em>Mind</em>MazeMix",
+      "rawName": "MindMazeMix",
+      "categories": [],
+      "mechanics": [],
+      "yearPublished": 2016,
+      "weight": 0,
+      "rating": 5.5,
+      "rank": 0,
+      "publisher": "Pegasus Spiele",
+      "maxPlayers": 99,
+      "minPlayers": 2,
+      "minPlayTime": 10,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "193274",
+      "image": "https://cf.geekdo-images.com/vuS02fDUl06-GEpvxywerg__thumb/img/Br0NiKfpe93HhWzzwQ7zaGGPvwU=/fit-in/200x150/filters:strip_icc()/pic3001339.jpg",
+      "name": "<em>Mind</em>Maze: Young Detectives",
+      "rawName": "MindMaze: Young Detectives",
+      "categories": [
+        "Party Game"
+      ],
+      "mechanics": [
+        "Storytelling"
+      ],
+      "yearPublished": 2015,
+      "weight": 0,
+      "rating": 5.39091,
+      "rank": 0,
+      "publisher": "Magellan",
+      "maxPlayers": 99,
+      "minPlayers": 2,
+      "minPlayTime": 10,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "1923",
+      "image": "https://cf.geekdo-images.com/4ZRf2XeJVjblIp6nFuIOoA__thumb/img/rOM5ycGCtYWgxud5AeyziHdIFf0=/fit-in/200x150/filters:strip_icc()/pic195749.jpg",
+      "name": "<em>Mind</em>Trap",
+      "rawName": "MindTrap",
+      "categories": [
+        "Deduction",
+        "Party Game"
+      ],
+      "mechanics": [
+        "Team-Based Game"
+      ],
+      "yearPublished": 1991,
+      "weight": 1.9444,
+      "rating": 4.77879,
+      "rank": 26709,
+      "publisher": "Great American Puzzle Factory",
+      "maxPlayers": 16,
+      "minPlayers": 2,
+      "minPlayTime": 60,
+      "maxPlayTime": 60,
+      "type": "boardgame"
+    },
+    {
+      "id": "187616",
+      "image": "https://cf.geekdo-images.com/c9-pMj_DZepRjQnA6tQKSg__thumb/img/AZpqoPF8epjiXgtnL7BavIZ7Zkk=/fit-in/200x150/filters:strip_icc()/pic2747220.jpg",
+      "name": "<em>Mind</em>ent a hely\u00e9re!",
+      "rawName": "Mindent a hely\u00e9re!",
+      "categories": [
+        "Children&#039;s Game"
+      ],
+      "mechanics": [
+        "Pattern Recognition",
+        "Roll / Spin and Move"
+      ],
+      "yearPublished": 0,
+      "weight": 0,
+      "rating": 5,
+      "rank": 0,
+      "publisher": "Keller & Mayer",
+      "maxPlayers": 6,
+      "minPlayers": 2,
+      "minPlayTime": 15,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "176610",
+      "image": "https://cf.geekdo-images.com/iBJmkagvKuSm925E0hk9JQ__thumb/img/XDmSID3vt-Ly9IiZRrkVLereAJA=/fit-in/200x150/filters:strip_icc()/pic2504303.png",
+      "name": "<em>Mind</em> Masters",
+      "rawName": "Mind Masters",
+      "categories": [
+        "Card Game",
+        "Print & Play"
+      ],
+      "mechanics": [
+        "Hand Management",
+        "Player Elimination"
+      ],
+      "yearPublished": 2015,
+      "weight": 0,
+      "rating": 6,
+      "rank": 0,
+      "publisher": "(Web published)",
+      "maxPlayers": 5,
+      "minPlayers": 2,
+      "minPlayTime": 45,
+      "maxPlayTime": 90,
+      "type": "boardgame"
+    },
+    {
+      "id": "17607",
+      "image": "",
+      "name": "<em>Mind</em>en Association Football",
+      "rawName": "Minden Association Football",
+      "categories": [
+        "Sports"
+      ],
+      "mechanics": [],
+      "yearPublished": 0,
+      "weight": 1,
+      "rating": 3.5,
+      "rank": 0,
+      "publisher": "Minden Games",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 60,
+      "maxPlayTime": 60,
+      "type": "boardgame"
+    },
+    {
+      "id": "172508",
+      "image": "https://cf.geekdo-images.com/uIUmAihL_ZOUcp4hUey3cQ__thumb/img/xQRosYILytIPXqUxEJ9CFR_dvjY=/fit-in/200x150/filters:strip_icc()/pic2423923.jpg",
+      "name": "<em>Mind</em>Maze: Verzwickte R\u00e4tsel \u2013 Geld, Ruhm und Macht",
+      "rawName": "MindMaze: Verzwickte R\u00e4tsel \u2013 Geld, Ruhm und Macht",
+      "categories": [
+        "Deduction",
+        "Party Game"
+      ],
+      "mechanics": [
+        "Storytelling"
+      ],
+      "yearPublished": 2015,
+      "weight": 1,
+      "rating": 5.1275,
+      "rank": 0,
+      "publisher": "Edge Entertainment",
+      "maxPlayers": 99,
+      "minPlayers": 2,
+      "minPlayTime": 10,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "17238",
+      "image": "https://cf.geekdo-images.com/ISjUflCw4WJSPilVrPifnQ__thumb/img/IFxp4U55G8nJ9_BgTUU4jAIo3jI=/fit-in/200x150/filters:strip_icc()/pic74531.jpg",
+      "name": "<em>Mind</em>Rings",
+      "rawName": "MindRings",
+      "categories": [
+        "Abstract Strategy"
+      ],
+      "mechanics": [],
+      "yearPublished": 2003,
+      "weight": 1,
+      "rating": 6.4,
+      "rank": 0,
+      "publisher": "Vantex Corporation",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 20,
+      "maxPlayTime": 20,
+      "type": "boardgame"
+    },
+    {
+      "id": "170324",
+      "image": "https://cf.geekdo-images.com/eW7DkA5ygzni7a4ZCNT8sA__thumb/img/6Us5opqECFQ2N8zgPy_u1sZtxoc=/fit-in/200x150/filters:strip_icc()/pic8139955.jpg",
+      "name": "<em>Mind</em>en 1759",
+      "rawName": "Minden 1759",
+      "categories": [
+        "Age of Reason",
+        "Wargame"
+      ],
+      "mechanics": [
+        "Hexagon Grid"
+      ],
+      "yearPublished": 2024,
+      "weight": 3,
+      "rating": 8.19091,
+      "rank": 0,
+      "publisher": "Adhoc-Edition",
+      "maxPlayers": 4,
+      "minPlayers": 1,
+      "minPlayTime": 180,
+      "maxPlayTime": 180,
+      "type": "boardgame"
+    },
+    {
+      "id": "164722",
+      "image": "https://cf.geekdo-images.com/1YxackoGkq9j4Qo67NLt1g__thumb/img/pTvoSn48U1VVnbvzQKl9Cj9D6H4=/fit-in/200x150/filters:strip_icc()/pic2225882.jpg",
+      "name": "<em>Mind</em>Maze: Verzwickte R\u00e4tsel \u2013 Rabenschwarze Geschichten",
+      "rawName": "MindMaze: Verzwickte R\u00e4tsel \u2013 Rabenschwarze Geschichten",
+      "categories": [
+        "Deduction",
+        "Party Game"
+      ],
+      "mechanics": [
+        "Storytelling"
+      ],
+      "yearPublished": 2014,
+      "weight": 0,
+      "rating": 5.85778,
+      "rank": 0,
+      "publisher": "Edge Entertainment",
+      "maxPlayers": 99,
+      "minPlayers": 2,
+      "minPlayTime": 10,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "154011",
+      "image": "https://cf.geekdo-images.com/oBENd3m_0wwH_Fb6FsZ_1g__thumb/img/8vkYvSry2wUM2mh3_OThpaC-wVw=/fit-in/200x150/filters:strip_icc()/pic1918073.jpg",
+      "name": "<em>Mind</em>Maze: Verzwickte R\u00e4tsel \u2013 Wahre Geschichten",
+      "rawName": "MindMaze: Verzwickte R\u00e4tsel \u2013 Wahre Geschichten",
+      "categories": [
+        "Party Game"
+      ],
+      "mechanics": [
+        "Storytelling"
+      ],
+      "yearPublished": 2014,
+      "weight": 2.5,
+      "rating": 5.64773,
+      "rank": 0,
+      "publisher": "Pegasus Spiele",
+      "maxPlayers": 99,
+      "minPlayers": 2,
+      "minPlayTime": 10,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "154010",
+      "image": "https://cf.geekdo-images.com/PH6gbj5aq0lw_D1yJHE0iw__thumb/img/HGelFCFrqIU4oh3SLiQeCaeKEGM=/fit-in/200x150/filters:strip_icc()/pic1918069.jpg",
+      "name": "<em>Mind</em>Maze: Verzwickte R\u00e4tsel \u2013 Kriminalf\u00e4lle",
+      "rawName": "MindMaze: Verzwickte R\u00e4tsel \u2013 Kriminalf\u00e4lle",
+      "categories": [
+        "Party Game"
+      ],
+      "mechanics": [
+        "Storytelling"
+      ],
+      "yearPublished": 2014,
+      "weight": 1,
+      "rating": 5.7125,
+      "rank": 22098,
+      "publisher": "Edge Entertainment",
+      "maxPlayers": 99,
+      "minPlayers": 2,
+      "minPlayTime": 10,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "15231",
+      "image": "https://cf.geekdo-images.com/QlzkJJH5uIliNeF6ksxDFg__thumb/img/yf16CtZ376Y4LGYj2i_h6xWJUgo=/fit-in/200x150/filters:strip_icc()/pic888686.jpg",
+      "name": "<em>Mind</em>en Playing Card Cricket",
+      "rawName": "Minden Playing Card Cricket",
+      "categories": [
+        "Card Game",
+        "Sports"
+      ],
+      "mechanics": [
+        "Dice Rolling",
+        "Hand Management"
+      ],
+      "yearPublished": 1979,
+      "weight": 2.4,
+      "rating": 7.39737,
+      "rank": 15909,
+      "publisher": "Dagbostar Games",
+      "maxPlayers": 22,
+      "minPlayers": 1,
+      "minPlayTime": 90,
+      "maxPlayTime": 90,
+      "type": "boardgame"
+    },
+    {
+      "id": "15152",
+      "image": "https://cf.geekdo-images.com/oKT3bcSEfhygwlvRTuKeww__thumb/img/E_E-ulRCZBu28pUJHs8oSw0cqso=/fit-in/200x150/filters:strip_icc()/pic387753.jpg",
+      "name": "<em>Mind</em> Duel",
+      "rawName": "Mind Duel",
+      "categories": [
+        "Fighting",
+        "Science Fiction"
+      ],
+      "mechanics": [
+        "Dice Rolling",
+        "Point to Point Movement"
+      ],
+      "yearPublished": 1986,
+      "weight": 1,
+      "rating": 3.33333,
+      "rank": 0,
+      "publisher": "DTI (Diverse Talents, Incorporated)",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "142690",
+      "image": "https://cf.geekdo-images.com/owfA9bItNyvJL_xdAVLzsg__thumb/img/_e6nmpTnbalXVWv2qzFvmrXEj5k=/fit-in/200x150/filters:strip_icc()/pic1666020.png",
+      "name": "<em>Mind</em> Your Step!",
+      "rawName": "Mind Your Step!",
+      "categories": [
+        "Print & Play"
+      ],
+      "mechanics": [
+        "Dice Rolling",
+        "Push Your Luck"
+      ],
+      "yearPublished": 2013,
+      "weight": 0,
+      "rating": 8.5,
+      "rank": 0,
+      "publisher": "(Web published)",
+      "maxPlayers": 6,
+      "minPlayers": 2,
+      "minPlayTime": 30,
+      "maxPlayTime": 30,
+      "type": "boardgame"
+    },
+    {
+      "id": "14094",
+      "image": "https://cf.geekdo-images.com/D32EUGVd79oLP0De-kZnyA__thumb/img/VG1baB0NGbmO0Asma70cOxX3dSs=/fit-in/200x150/filters:strip_icc()/pic305450.jpg",
+      "name": "<em>Mind</em>ball",
+      "rawName": "Mindball",
+      "categories": [
+        "Action / Dexterity",
+        "Electronic"
+      ],
+      "mechanics": [],
+      "yearPublished": 2004,
+      "weight": 0,
+      "rating": 5.33333,
+      "rank": 0,
+      "publisher": "Interactive Productline",
+      "maxPlayers": 2,
+      "minPlayers": 2,
+      "minPlayTime": 5,
+      "maxPlayTime": 5,
+      "type": "boardgame"
+    },
+    {
+      "id": "140144",
+      "image": "https://cf.geekdo-images.com/yzRWSOuu1VdChOpP0xXHVQ__thumb/img/5XGv5skhpHz-hdHnpCefMwzGnrY=/fit-in/200x150/filters:strip_icc()/pic1607055.jpg",
+      "name": "<em>Mind</em> Benders",
+      "rawName": "Mind Benders",
+      "categories": [
+        "Card Game",
+        "Deduction"
+      ],
+      "mechanics": [],
+      "yearPublished": 0,
+      "weight": 0,
+      "rating": 3.5,
+      "rank": 0,
+      "publisher": "Marks & Spencer",
+      "maxPlayers": 0,
+      "minPlayers": 2,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    },
+    {
+      "id": "138816",
+      "image": "",
+      "name": "<em>Mind</em>en Replay Baseball",
+      "rawName": "Minden Replay Baseball",
+      "categories": [
+        "Sports"
+      ],
+      "mechanics": [
+        "Dice Rolling"
+      ],
+      "yearPublished": 1982,
+      "weight": 0,
+      "rating": 3,
+      "rank": 0,
+      "publisher": "Minden Games",
+      "maxPlayers": 2,
+      "minPlayers": 1,
+      "minPlayTime": 0,
+      "maxPlayTime": 0,
+      "type": "boardgame"
+    }
+  ]
+}
